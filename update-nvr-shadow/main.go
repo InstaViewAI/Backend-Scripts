@@ -47,15 +47,12 @@ func main() {
 
 	iotCore := i.NewIoTCore()
 
-	// for _, thing := range thing_name {
-	// 	fmt.Println(thing)
-	// }
-	thing_my_name := "36sMjQdQgZkRqQWTz5F8ASMY4Ta_cbx3fjdgipbp3z29mj"
-	fmt.Println(thing_my_name)
-
-	if err := iotCore.UpdateNVRShadow(thing_my_name); err != nil {
-  	  fmt.Printf("Failed to update shadow: %v\n", err)
+	for _, thing := range thing_name {
+		if err := iotCore.UpdateNVRShadow(thing); err != nil {
+  	 		fmt.Printf("Failed to update shadow: %v\n", err)
+		}
+		//println(thing)
 	}
-	fmt.Print("all devices things names done\n")
+	fmt.Print("Updated the All NVR Shadows\n")
 
 }

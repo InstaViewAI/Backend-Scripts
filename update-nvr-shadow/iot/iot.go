@@ -119,7 +119,7 @@ func (ait *IoTCore) UpdateNVRShadow(thingName string) error {
 		return fmt.Errorf("failed to update shadow for %s: %w", thingName, err)
 	}
 
-	fmt.Printf("✅ Successfully updated shadow for thing: %s\n", thingName)
+	fmt.Printf("Successfully updated shadow for thing: %s\n", thingName)
 	return nil
 }
 
