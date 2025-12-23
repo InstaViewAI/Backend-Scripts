@@ -172,3 +172,56 @@ func (ait *IoTCore) ThingExists(thingName string) bool {
 }
 
 
+
+// func (ait *IoTCore) UpdateNVRShadow(thingName string) error {
+
+// 	fmt.Printf("Reading nvr shadow for thing: %s\n", thingName)
+
+// 	sh, err := ait.GetThingShadow(context.TODO(), thingName)
+// 	if err != nil {
+// 		return fmt.Errorf("failed to get thing shadow for %s: %w, %v", thingName, err, sh)
+// 	}
+
+// 	currShadow := &ShadowPayloadV2{}
+// 	if err := json.Unmarshal(sh.Payload, currShadow); err != nil {
+// 		return fmt.Errorf("failed to unmarshal shadow payload for %s: %w", thingName, err)
+// 	}
+
+// 	fmt.Printf("current Shadow", currShadow)
+
+// 	if currShadow.State.Desired != nil && currShadow.State.Desired["exit_dly"] != nil && currShadow.State.Desired["exit_delay"] == 0 {
+// 		// Assuming bitrate is a string that needs to be converted to an enum
+// 		bitrateValue, ok := currShadow.State.Desired["exit_delay"].(int)
+// 		if !ok {
+// 			print("thing name: ", thingName, " does not have a valid bitrate value")
+
+// 			updateBitrateShadow := &ShadowPayloadV2{
+// 				State: StateV2{
+// 					Desired: map[string]any{
+// 						"0xFC1A:0x00": "Auto", // Defaulting
+// 						// to "Auto" if the value is not a string
+// 					},
+// 				},
+// 			}
+
+// 			payload, err := json.Marshal(updateBitrateShadow)
+// 			if err != nil {
+// 				fmt.Printf("Failed to marshal shadow payload for %s: %v\n", thingName, err)
+// 			}
+
+// 			_, err = ait.UpdateThingShadow(context.TODO(), thingName, payload)
+// 			if err != nil {
+// 				fmt.Printf("Failed to update shadow for %s: %v\n", thingName, err)
+// 			} else {
+// 				fmt.Printf("Updated bitrate for thing: %s to Auto\n", thingName)
+// 			}
+
+// 			return nil
+
+// 		} else {
+// 			fmt.Printf("thing name: %s has bitrate value: %v\n\n", thingName, bitrateValue)
+// 		}
+// 	}
+
+// 	return nil
+// }
