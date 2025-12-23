@@ -58,18 +58,18 @@ func NewIoTCore() *IoTCore {
 	return iotCore
 }
 
-// func (ait *IoTCore) GetThingShadow(ctx context.Context, thingName string) (*iotdataplane.GetThingShadowOutput, error) {
-// 	getThingShadowInput := &iotdataplane.GetThingShadowInput{
-// 		ThingName: aws.String(thingName),
-// 	}
+func (ait *IoTCore) GetThingShadow(ctx context.Context, thingName string) (*iotdataplane.GetThingShadowOutput, error) {
+	getThingShadowInput := &iotdataplane.GetThingShadowInput{
+		ThingName: aws.String(thingName),
+	}
 
-// 	getThingShadowOutput, err := ait.IotDataClient.GetThingShadow(ctx, getThingShadowInput)
-// 	if err != nil {
-// 		return nil, err
-// 	}
+	getThingShadowOutput, err := ait.IotDataClient.GetThingShadow(ctx, getThingShadowInput)
+	if err != nil {
+		return nil, err
+	}
 
-// 	return getThingShadowOutput, nil
-// }
+	return getThingShadowOutput, nil
+}
 
 func (ait *IoTCore) UpdateThingShadow(ctx context.Context, thingName string, payload []byte) (*iotdataplane.UpdateThingShadowOutput, error) {
 	updateThingShadowInput := &iotdataplane.UpdateThingShadowInput{
@@ -123,56 +123,52 @@ func (ait *IoTCore) UpdateNVRShadow(thingName string) error {
 	return nil
 }
 
+// UpdateNVRsubShadow will update the shadow to subscription field
+func (ait *IoTCore) UpdateNVRSubShadow(thingName string) error {
+	fmt.Printf("Updating the Subs Shadow for thing: %s\n", thingName)
+	payload := ShadowPayloadV2{
+		State: StateV2{
+			Desired:map[string]any{
+				"subscription": map[string]any{
+					"supported_features": []map[string]string{
+						// {
+						// 	"id":    "pro_monitoring",
+						// 	"value": "",
+						// },
+						{
+							"id":    "cloud_storage",
+							"value": "30",
+						},
+					},
+				},
+			},
+		},
+	}
 
-// func (ait *IoTCore) UpdateNVRShadow(thingName string) error {
+	payloadBytes, err := json.Marshal(payload)
+	if err != nil {
+		return fmt.Errorf("failed to marshal shadow payload: %w", err)
+	}
 
-// 	fmt.Printf("Reading nvr shadow for thing: %s\n", thingName)
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+	_, err = ait.UpdateThingShadow(ctx, thingName, payloadBytes)
+	if err != nil {
+		return fmt.Errorf("failed to update shadow for %s: %w", thingName, err)
+	}
 
-// 	sh, err := ait.GetThingShadow(context.TODO(), thingName)
-// 	if err != nil {
-// 		return fmt.Errorf("failed to get thing shadow for %s: %w, %v", thingName, err, sh)
-// 	}
+	fmt.Printf("Subscription shadow updated successfully for thing: %s\n", thingName)
+	return nil
+}
 
-// 	currShadow := &ShadowPayloadV2{}
-// 	if err := json.Unmarshal(sh.Payload, currShadow); err != nil {
-// 		return fmt.Errorf("failed to unmarshal shadow payload for %s: %w", thingName, err)
-// 	}
 
-// 	fmt.Printf("current Shadow", currShadow)
+func (ait *IoTCore) ThingExists(thingName string) bool {
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+	_, err := ait.IotClient.DescribeThing(ctx, &iot.DescribeThingInput{
+		ThingName: aws.String(thingName),
+	})
+	return err == nil
+}
 
-// 	if currShadow.State.Desired != nil && currShadow.State.Desired["exit_dly"] != nil && currShadow.State.Desired["exit_delay"] == 0 {
-// 		// Assuming bitrate is a string that needs to be converted to an enum
-// 		bitrateValue, ok := currShadow.State.Desired["exit_delay"].(int)
-// 		if !ok {
-// 			print("thing name: ", thingName, " does not have a valid bitrate value")
 
-// 			updateBitrateShadow := &ShadowPayloadV2{
-// 				State: StateV2{
-// 					Desired: map[string]any{
-// 						"0xFC1A:0x00": "Auto", // Defaulting
-// 						// to "Auto" if the value is not a string
-// 					},
-// 				},
-// 			}
-
-// 			payload, err := json.Marshal(updateBitrateShadow)
-// 			if err != nil {
-// 				fmt.Printf("Failed to marshal shadow payload for %s: %v\n", thingName, err)
-// 			}
-
-// 			_, err = ait.UpdateThingShadow(context.TODO(), thingName, payload)
-// 			if err != nil {
-// 				fmt.Printf("Failed to update shadow for %s: %v\n", thingName, err)
-// 			} else {
-// 				fmt.Printf("Updated bitrate for thing: %s to Auto\n", thingName)
-// 			}
-
-// 			return nil
-
-// 		} else {
-// 			fmt.Printf("thing name: %s has bitrate value: %v\n\n", thingName, bitrateValue)
-// 		}
-// 	}
-
-// 	return nil
-// }

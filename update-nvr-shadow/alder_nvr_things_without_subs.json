@@ -1,0 +1,2427 @@
+[
+    {
+        "thing_name": "31n9oqiUiBL558bmcU0cQ7Wx4a2_cbmkaxkk2zf9yk2iys",
+        "device_id": "cbmkaxkk2zf9yk2iys",
+        "space_id": "31n9oqiUiBL558bmcU0cQ7Wx4a2"
+    },
+    {
+        "thing_name": "31qCWrEgmdY2UJoJ3IxG2ej5NDv_cbmdxk68975bd4znrx",
+        "device_id": "cbmdxk68975bd4znrx",
+        "space_id": "31qCWrEgmdY2UJoJ3IxG2ej5NDv"
+    },
+    {
+        "thing_name": "31sOsNwH5Z8ZdSs4Qm3JZqMtOMn_cbm5jje2hmsys76z77",
+        "device_id": "cbm5jje2hmsys76z77",
+        "space_id": "31sOsNwH5Z8ZdSs4Qm3JZqMtOMn"
+    },
+    {
+        "thing_name": "31t14Rjs2uygLjnT1y510MCt2lV_cbmqwc8nzu2vwhzx4p",
+        "device_id": "cbmqwc8nzu2vwhzx4p",
+        "space_id": "31t14Rjs2uygLjnT1y510MCt2lV"
+    },
+    {
+        "thing_name": "31vfXNRhbKkME1Ce7lkqBNyDaL0_cbm6aq7v6kkeqkizk5",
+        "device_id": "cbm6aq7v6kkeqkizk5",
+        "space_id": "31vfXNRhbKkME1Ce7lkqBNyDaL0"
+    },
+    {
+        "thing_name": "31snFNz4LYDM7VyiZKv3NxKUcHI_cbmkbcj9ab9mji2qd4",
+        "device_id": "cbmkbcj9ab9mji2qd4",
+        "space_id": "31snFNz4LYDM7VyiZKv3NxKUcHI"
+    },
+    {
+        "thing_name": "31wF9LtUi8IAj9Zdmi01p9Yjurt_cbm2pkyyjvt3zzy4ys",
+        "device_id": "cbm2pkyyjvt3zzy4ys",
+        "space_id": "31wF9LtUi8IAj9Zdmi01p9Yjurt"
+    },
+    {
+        "thing_name": "31wRkibmziXjeDdLFIp8ME93Uz3_cbmjw84tf4fdj2bmfi",
+        "device_id": "cbmjw84tf4fdj2bmfi",
+        "space_id": "31wRkibmziXjeDdLFIp8ME93Uz3"
+    },
+    {
+        "thing_name": "31z26nPsEj9Tc3UVrz64Sw3iE5T_cbm63mvc9t5uta2azu",
+        "device_id": "cbm63mvc9t5uta2azu",
+        "space_id": "31z26nPsEj9Tc3UVrz64Sw3iE5T"
+    },
+    {
+        "thing_name": "31tiBzpUhWqt2hIZHEdCnFOMfXU_cbmu6ck794bcz6brvv",
+        "device_id": "cbmu6ck794bcz6brvv",
+        "space_id": "31tiBzpUhWqt2hIZHEdCnFOMfXU"
+    },
+    {
+        "thing_name": "3212h2XUfq4OgioLi2b11g2tBrm_cbm772hqx3qdgrw8xy",
+        "device_id": "cbm772hqx3qdgrw8xy",
+        "space_id": "3212h2XUfq4OgioLi2b11g2tBrm"
+    },
+    {
+        "thing_name": "321Zv8e707MDAqy9Bj9FI3ZYAXf_cbmn9tvzch22wgkdpv",
+        "device_id": "cbmn9tvzch22wgkdpv",
+        "space_id": "321Zv8e707MDAqy9Bj9FI3ZYAXf"
+    },
+    {
+        "thing_name": "3271aJWyEia58Z4w3KWeKTvMzn8_cbmiajkcp5gtprbky6",
+        "device_id": "cbmiajkcp5gtprbky6",
+        "space_id": "3271aJWyEia58Z4w3KWeKTvMzn8"
+    },
+    {
+        "thing_name": "326uzjeyHYMB9TxrPg06DVYZF9A_cbmnb2x5stmgn56mb8",
+        "device_id": "cbmnb2x5stmgn56mb8",
+        "space_id": "326uzjeyHYMB9TxrPg06DVYZF9A"
+    },
+    {
+        "thing_name": "329BfO4C6f6Y94hCg9KoucRHBdu_cbm92s2tf5uqhbrbyg",
+        "device_id": "cbm92s2tf5uqhbrbyg",
+        "space_id": "329BfO4C6f6Y94hCg9KoucRHBdu"
+    },
+    {
+        "thing_name": "329neAxtA0ZC24Z5d2MVYLm7jv3_cbm695pnqrdbf7izww",
+        "device_id": "cbm695pnqrdbf7izww",
+        "space_id": "329neAxtA0ZC24Z5d2MVYLm7jv3"
+    },
+    {
+        "thing_name": "31pbd9FkD8J6WOBvjpxpIGIKCtQ_cbmfk59fg87pzun5fd",
+        "device_id": "cbmfk59fg87pzun5fd",
+        "space_id": "31pbd9FkD8J6WOBvjpxpIGIKCtQ"
+    },
+    {
+        "thing_name": "32ACvK23TGch7F346qVphj43HRL_cbm33epgeidvdh3jy3",
+        "device_id": "cbm33epgeidvdh3jy3",
+        "space_id": "32ACvK23TGch7F346qVphj43HRL"
+    },
+    {
+        "thing_name": "32AHGcr1h5oZSvLGtwC51HVpms0_cbmtzkfit7nubp92fg",
+        "device_id": "cbmtzkfit7nubp92fg",
+        "space_id": "32AHGcr1h5oZSvLGtwC51HVpms0"
+    },
+    {
+        "thing_name": "32AK4Hz41jtnBIHYkf4hkGmMNYn_cbmtqz6c2rkydqjgps",
+        "device_id": "cbmtqz6c2rkydqjgps",
+        "space_id": "32AK4Hz41jtnBIHYkf4hkGmMNYn"
+    },
+    {
+        "thing_name": "32CalF1rRoEICG32HjTtYyBA441_cbmpzdxcd2tbyydg83",
+        "device_id": "cbmpzdxcd2tbyydg83",
+        "space_id": "32CalF1rRoEICG32HjTtYyBA441"
+    },
+    {
+        "thing_name": "32FB8XjzAVlW3wbZEoLNnIGGula_cbmdbpxm3u9c8uf3dh",
+        "device_id": "cbmdbpxm3u9c8uf3dh",
+        "space_id": "32FB8XjzAVlW3wbZEoLNnIGGula"
+    },
+    {
+        "thing_name": "329NAtHL8coiT3aHp1NnI45TwYD_cbmavh6ftprzsc8eyj",
+        "device_id": "cbmavh6ftprzsc8eyj",
+        "space_id": "329NAtHL8coiT3aHp1NnI45TwYD"
+    },
+    {
+        "thing_name": "32FNd5y1aesTQCySikEsMVeLujW_cbmrsve63f23ys6ydy",
+        "device_id": "cbmrsve63f23ys6ydy",
+        "space_id": "32FNd5y1aesTQCySikEsMVeLujW"
+    },
+    {
+        "thing_name": "32FujxKE3BUFV0eNgPM0OBlPuZS_cbmgvvhgpe3xjfdk8n",
+        "device_id": "cbmgvvhgpe3xjfdk8n",
+        "space_id": "32FujxKE3BUFV0eNgPM0OBlPuZS"
+    },
+    {
+        "thing_name": "32GEUWrn0JflsoncGpCU70GzvDb_cbmqypvr339u4y3yv2",
+        "device_id": "cbmqypvr339u4y3yv2",
+        "space_id": "32GEUWrn0JflsoncGpCU70GzvDb"
+    },
+    {
+        "thing_name": "32FAmu6X7KyZFedKxwWDpYHloPA_cbmn4r7ujwb9teva53",
+        "device_id": "cbmn4r7ujwb9teva53",
+        "space_id": "32FAmu6X7KyZFedKxwWDpYHloPA"
+    },
+    {
+        "thing_name": "32J647mFusJxwpXRodOJ9nNF6hC_cbm3reeti8wnkpaay3",
+        "device_id": "cbm3reeti8wnkpaay3",
+        "space_id": "32J647mFusJxwpXRodOJ9nNF6hC"
+    },
+    {
+        "thing_name": "32Km5DfMJuq7JDIkeJP73hJSxQv_cbmmgjxji5z57z2ek6",
+        "device_id": "cbmmgjxji5z57z2ek6",
+        "space_id": "32Km5DfMJuq7JDIkeJP73hJSxQv"
+    },
+    {
+        "thing_name": "32LBSFBkzF1jCbILiHktHKLe6W5_cbmzpa579bex532uiv",
+        "device_id": "cbmzpa579bex532uiv",
+        "space_id": "32LBSFBkzF1jCbILiHktHKLe6W5"
+    },
+    {
+        "thing_name": "32L4IG0zoLytQVd3edzgQviYbRL_cbm289uivrbg2m2fv5",
+        "device_id": "cbm289uivrbg2m2fv5",
+        "space_id": "32L4IG0zoLytQVd3edzgQviYbRL"
+    },
+    {
+        "thing_name": "32LxzakBM6AXNg6VnXfkYsADHGd_cbm3fs3j2eeepcccf9",
+        "device_id": "cbm3fs3j2eeepcccf9",
+        "space_id": "32LxzakBM6AXNg6VnXfkYsADHGd"
+    },
+    {
+        "thing_name": "32OGp5IddWFSz75YveRHCjNEi6o_cbmukq5sp44x8gt774",
+        "device_id": "cbmukq5sp44x8gt774",
+        "space_id": "32OGp5IddWFSz75YveRHCjNEi6o"
+    },
+    {
+        "thing_name": "32QSSMy1hkCSYoBveRVZHMLYuDs_cbmh2f77d6e6zsg2jj",
+        "device_id": "cbmh2f77d6e6zsg2jj",
+        "space_id": "32QSSMy1hkCSYoBveRVZHMLYuDs"
+    },
+    {
+        "thing_name": "32QoCIW5C4By2G5nTxqyyQBrgH1_cbmpzz7y8rvb77b24d",
+        "device_id": "cbmpzz7y8rvb77b24d",
+        "space_id": "32QoCIW5C4By2G5nTxqyyQBrgH1"
+    },
+    {
+        "thing_name": "32RU2yAQBdXGDPAVHryyg0Ogsa5_cbmcugpdv88ne3rcn5",
+        "device_id": "cbmcugpdv88ne3rcn5",
+        "space_id": "32RU2yAQBdXGDPAVHryyg0Ogsa5"
+    },
+    {
+        "thing_name": "31o3Ewd97wepRNrdV05jjdaMTGh_cbmvcyshexhvm2bwg3",
+        "device_id": "cbmvcyshexhvm2bwg3",
+        "space_id": "31o3Ewd97wepRNrdV05jjdaMTGh"
+    },
+    {
+        "thing_name": "32TjSU7t1pY1JN4MnsZosFxUXsl_cbmf3tjgttg8hy7h5k",
+        "device_id": "cbmf3tjgttg8hy7h5k",
+        "space_id": "32TjSU7t1pY1JN4MnsZosFxUXsl"
+    },
+    {
+        "thing_name": "32X2V6usTIGx4DEO1auaoAnLO5q_cbmz6iirfz72825i3q",
+        "device_id": "cbmz6iirfz72825i3q",
+        "space_id": "32X2V6usTIGx4DEO1auaoAnLO5q"
+    },
+    {
+        "thing_name": "32YwoEBve3HCWHkiDXB6fpP5aou_cbmq655bjku5gsfank",
+        "device_id": "cbmq655bjku5gsfank",
+        "space_id": "32YwoEBve3HCWHkiDXB6fpP5aou"
+    },
+    {
+        "thing_name": "32ZJOR98TmSWU2OLRERP9ES7xgh_cbm89bj963diyj23nm",
+        "device_id": "cbm89bj963diyj23nm",
+        "space_id": "32ZJOR98TmSWU2OLRERP9ES7xgh"
+    },
+    {
+        "thing_name": "321ynqjeJT7roxJCBC8cfu1xEZk_cbmyaj75yvyr3y6xrz",
+        "device_id": "cbmyaj75yvyr3y6xrz",
+        "space_id": "321ynqjeJT7roxJCBC8cfu1xEZk"
+    },
+    {
+        "thing_name": "32ZcBhI38B2o8900IT0tmYNQypa_cbmq477zyy4ir8ip9p",
+        "device_id": "cbmq477zyy4ir8ip9p",
+        "space_id": "32ZcBhI38B2o8900IT0tmYNQypa"
+    },
+    {
+        "thing_name": "32a2vmdJWSY6svM3zjyn8J09c4H_cbmr25tcbbkapa6iub",
+        "device_id": "cbmr25tcbbkapa6iub",
+        "space_id": "32a2vmdJWSY6svM3zjyn8J09c4H"
+    },
+    {
+        "thing_name": "32cGAl29OUcmYnHMmbxFPSU7JhL_cbmvn4h2t9mrjfk75y",
+        "device_id": "cbmvn4h2t9mrjfk75y",
+        "space_id": "32cGAl29OUcmYnHMmbxFPSU7JhL"
+    },
+    {
+        "thing_name": "32cefxYMSvYvm7Fhdjj3I2OS2xb_cbmwqjj6s9temgp2py",
+        "device_id": "cbmwqjj6s9temgp2py",
+        "space_id": "32cefxYMSvYvm7Fhdjj3I2OS2xb"
+    },
+    {
+        "thing_name": "32ey2f4wTcWtRJ0TDgMCpZqBVxb_cbmmcvf4945zdf6ruj",
+        "device_id": "cbmmcvf4945zdf6ruj",
+        "space_id": "32ey2f4wTcWtRJ0TDgMCpZqBVxb"
+    },
+    {
+        "thing_name": "32fBeYcIdqOm682oWjzk0Hyds2r_cbmf3qxyarvq4wixtb",
+        "device_id": "cbmf3qxyarvq4wixtb",
+        "space_id": "32fBeYcIdqOm682oWjzk0Hyds2r"
+    },
+    {
+        "thing_name": "32fwyTJoZANvqPXgfexmH8mhTqU_cbmerae36q5cr8jjy3",
+        "device_id": "cbmerae36q5cr8jjy3",
+        "space_id": "32fwyTJoZANvqPXgfexmH8mhTqU"
+    },
+    {
+        "thing_name": "32kMR26loDGOSbdDtP6BQYwbw4p_cbmg2s3jdynrt5zbzx",
+        "device_id": "cbmg2s3jdynrt5zbzx",
+        "space_id": "32kMR26loDGOSbdDtP6BQYwbw4p"
+    },
+    {
+        "thing_name": "32kzueJsrCkFDwtm9FZ8y5Tj2WJ_cbmdicshnkwscs2vj7",
+        "device_id": "cbmdicshnkwscs2vj7",
+        "space_id": "32kzueJsrCkFDwtm9FZ8y5Tj2WJ"
+    },
+    {
+        "thing_name": "32kr8YYg4plNbN7tWbMLdXXveVB_cbmfu327ymfbm996d3",
+        "device_id": "cbmfu327ymfbm996d3",
+        "space_id": "32kr8YYg4plNbN7tWbMLdXXveVB"
+    },
+    {
+        "thing_name": "32nb6EgzeiRdoxs2t3Y7ezbFBoT_cbm3u2v4ryjdskfajj",
+        "device_id": "cbm3u2v4ryjdskfajj",
+        "space_id": "32nb6EgzeiRdoxs2t3Y7ezbFBoT"
+    },
+    {
+        "thing_name": "32nk1F51CtTmsh3AE8Gba6V0Ln6_cbmu9hhska3v5z2ynq",
+        "device_id": "cbmu9hhska3v5z2ynq",
+        "space_id": "32nk1F51CtTmsh3AE8Gba6V0Ln6"
+    },
+    {
+        "thing_name": "32nypLtppHAKdwwIw6g7mgyVVgD_cbm9vhuh8q42d9h86r",
+        "device_id": "cbm9vhuh8q42d9h86r",
+        "space_id": "32nypLtppHAKdwwIw6g7mgyVVgD"
+    },
+    {
+        "thing_name": "32qBcbWN4DWQeIEqF9aPBBCSN4D_cbmxks54p6pejsnq89",
+        "device_id": "cbmxks54p6pejsnq89",
+        "space_id": "32qBcbWN4DWQeIEqF9aPBBCSN4D"
+    },
+    {
+        "thing_name": "32qCpGYkpXkt3Xu2Weo2L4NyyQj_cbm4kktnxux3tnuhur",
+        "device_id": "cbm4kktnxux3tnuhur",
+        "space_id": "32qCpGYkpXkt3Xu2Weo2L4NyyQj"
+    },
+    {
+        "thing_name": "32qO1e3VP5ybjdUzNuIIieYJFp9_cbmvvx8qyz7a7qn38p",
+        "device_id": "cbmvvx8qyz7a7qn38p",
+        "space_id": "32qO1e3VP5ybjdUzNuIIieYJFp9"
+    },
+    {
+        "thing_name": "32qWTYEimfCLQii4NkcMD2pLI3w_cbmbqzek4ufjwudd9h",
+        "device_id": "cbmbqzek4ufjwudd9h",
+        "space_id": "32qWTYEimfCLQii4NkcMD2pLI3w"
+    },
+    {
+        "thing_name": "32qcfSYIP5Li9yndSfpkpkCWwNH_cbm3dgaicnh6fmj8iy",
+        "device_id": "cbm3dgaicnh6fmj8iy",
+        "space_id": "32qcfSYIP5Li9yndSfpkpkCWwNH"
+    },
+    {
+        "thing_name": "32r4WJM9iVEzo6yADd77nRV31uh_cbmgjz4yvdzhmzyec8",
+        "device_id": "cbmgjz4yvdzhmzyec8",
+        "space_id": "32r4WJM9iVEzo6yADd77nRV31uh"
+    },
+    {
+        "thing_name": "32sw3cmq0lIjI6j88BgmAWr6QXb_cbmpfrenbmv8vz9v6g",
+        "device_id": "cbmpfrenbmv8vz9v6g",
+        "space_id": "32sw3cmq0lIjI6j88BgmAWr6QXb"
+    },
+    {
+        "thing_name": "32tAefh1YbAVllNZRVdQ0m6kSxY_cbmrrim8nkf587crxn",
+        "device_id": "cbmrrim8nkf587crxn",
+        "space_id": "32tAefh1YbAVllNZRVdQ0m6kSxY"
+    },
+    {
+        "thing_name": "32tBOgD5L0PasDFlPjKrMZsTbGY_cbmvgbfjvfed36q6i2",
+        "device_id": "cbmvgbfjvfed36q6i2",
+        "space_id": "32tBOgD5L0PasDFlPjKrMZsTbGY"
+    },
+    {
+        "thing_name": "32tTyvCcHEyJLyjBr4oCMHIKVwd_cbmhhvcudz8ixcrk4v",
+        "device_id": "cbmhhvcudz8ixcrk4v",
+        "space_id": "32tTyvCcHEyJLyjBr4oCMHIKVwd"
+    },
+    {
+        "thing_name": "32vT0qT2qtRouyyWeEzxIEyXew9_cbm9fqusa5mbj2yu5y",
+        "device_id": "cbm9fqusa5mbj2yu5y",
+        "space_id": "32vT0qT2qtRouyyWeEzxIEyXew9"
+    },
+    {
+        "thing_name": "32yWsG6yn8paA0d5YxxgiKyDW9K_cbmnaapdhuqj5q457b",
+        "device_id": "cbmnaapdhuqj5q457b",
+        "space_id": "32yWsG6yn8paA0d5YxxgiKyDW9K"
+    },
+    {
+        "thing_name": "32zEuhcJ0p3QhJdeGaMuaGBFaEE_cbme8yjcspb6vifqxn",
+        "device_id": "cbme8yjcspb6vifqxn",
+        "space_id": "32zEuhcJ0p3QhJdeGaMuaGBFaEE"
+    },
+    {
+        "thing_name": "32zaBFTP4baqy8pSvkHDz1lUO38_cbmx6hafhfpzibz453",
+        "device_id": "cbmx6hafhfpzibz453",
+        "space_id": "32zaBFTP4baqy8pSvkHDz1lUO38"
+    },
+    {
+        "thing_name": "3317lqv7zEtN8AvQTnLZdk4fOu5_cbmm86evgaqc26yti2",
+        "device_id": "cbmm86evgaqc26yti2",
+        "space_id": "3317lqv7zEtN8AvQTnLZdk4fOu5"
+    },
+    {
+        "thing_name": "32W2R9dLQr3GSVOl4DKwYm88Ode_cbmpg9vrw76khegf43",
+        "device_id": "cbmpg9vrw76khegf43",
+        "space_id": "32W2R9dLQr3GSVOl4DKwYm88Ode"
+    },
+    {
+        "thing_name": "334D6UZCvMP9ckGTNYdNs8CSkWw_cbmgdjirxet7gt54fr",
+        "device_id": "cbmgdjirxet7gt54fr",
+        "space_id": "334D6UZCvMP9ckGTNYdNs8CSkWw"
+    },
+    {
+        "thing_name": "334VnWtuED38x0OwYlU9AAjbeEe_cbmu4mcg5r2irqa6kg",
+        "device_id": "cbmu4mcg5r2irqa6kg",
+        "space_id": "334VnWtuED38x0OwYlU9AAjbeEe"
+    },
+    {
+        "thing_name": "334iCKJkdmBHtmtTbdi9gHp6Kh5_cbmmq4ckamr2cizfqr",
+        "device_id": "cbmmq4ckamr2cizfqr",
+        "space_id": "334iCKJkdmBHtmtTbdi9gHp6Kh5"
+    },
+    {
+        "thing_name": "334zEwD6DzamG7f3cy6P1o5e7V3_cbmithe7dv8y72eve5",
+        "device_id": "cbmithe7dv8y72eve5",
+        "space_id": "334zEwD6DzamG7f3cy6P1o5e7V3"
+    },
+    {
+        "thing_name": "336rdPKE79RFbJtd0qefcZmWWlV_cbmr7requwuju7qtyy",
+        "device_id": "cbmr7requwuju7qtyy",
+        "space_id": "336rdPKE79RFbJtd0qefcZmWWlV"
+    },
+    {
+        "thing_name": "339RLpXE1fw86AdPl5KrVXs09g1_cbmqp9gryvq7c628qs",
+        "device_id": "cbmqp9gryvq7c628qs",
+        "space_id": "339RLpXE1fw86AdPl5KrVXs09g1"
+    },
+    {
+        "thing_name": "339up09DptFhddpwQhS0VxemxZf_cbmr5w86dg6wvmz422",
+        "device_id": "cbmr5w86dg6wvmz422",
+        "space_id": "339up09DptFhddpwQhS0VxemxZf"
+    },
+    {
+        "thing_name": "33CsvV9QA0WGcDIjsu9Dp0dNY5D_cbmrug8xqb4icvkccw",
+        "device_id": "cbmrug8xqb4icvkccw",
+        "space_id": "33CsvV9QA0WGcDIjsu9Dp0dNY5D"
+    },
+    {
+        "thing_name": "33CugMGcZcXFrUWhA2qAo9oDkTO_cbmiszy9rizbmrada4",
+        "device_id": "cbmiszy9rizbmrada4",
+        "space_id": "33CugMGcZcXFrUWhA2qAo9oDkTO"
+    },
+    {
+        "thing_name": "2yx6b7779Beat5UmT8JTgYOtOPa_cbm8a8y3eu2ud3pvha",
+        "device_id": "cbm8a8y3eu2ud3pvha",
+        "space_id": "2yx6b7779Beat5UmT8JTgYOtOPa"
+    },
+    {
+        "thing_name": "33FmvYvcatwB3MzE5UDxovvHeZk_cbmt3uv7gzh7s6bhpc",
+        "device_id": "cbmt3uv7gzh7s6bhpc",
+        "space_id": "33FmvYvcatwB3MzE5UDxovvHeZk"
+    },
+    {
+        "thing_name": "33Idt07RwR51hY8saAvHeBL16rH_cbmhipvwzks8h65kmr",
+        "device_id": "cbmhipvwzks8h65kmr",
+        "space_id": "33Idt07RwR51hY8saAvHeBL16rH"
+    },
+    {
+        "thing_name": "33Nuhz2UhmPGUUN25nc3dfGWfV0_cbm6yc2gaxyhim2fiv",
+        "device_id": "cbm6yc2gaxyhim2fiv",
+        "space_id": "33Nuhz2UhmPGUUN25nc3dfGWfV0"
+    },
+    {
+        "thing_name": "33IgTZYk3D4vALxE15HZIU5aKVV_cbmjnfwxq5u6hkj9xb",
+        "device_id": "cbmjnfwxq5u6hkj9xb",
+        "space_id": "33IgTZYk3D4vALxE15HZIU5aKVV"
+    },
+    {
+        "thing_name": "33OpkZf57j5SKd8N742NiPlLXZn_cbmfk6pd9bnrzupywc",
+        "device_id": "cbmfk6pd9bnrzupywc",
+        "space_id": "33OpkZf57j5SKd8N742NiPlLXZn"
+    },
+    {
+        "thing_name": "33RHhNEfPdV3ldEWE0rbnwKM0yI_cbmwzdhaf6t2qnpwky",
+        "device_id": "cbmwzdhaf6t2qnpwky",
+        "space_id": "33RHhNEfPdV3ldEWE0rbnwKM0yI"
+    },
+    {
+        "thing_name": "33TRy458gM43kszUYzUqYAwm4H9_cbmq68hc5xekxf9mev",
+        "device_id": "cbmq68hc5xekxf9mev",
+        "space_id": "33TRy458gM43kszUYzUqYAwm4H9"
+    },
+    {
+        "thing_name": "33TWkPtQ7hBTFUJ08ibYIJCQeJB_cbmqy48izh278eqkq7",
+        "device_id": "cbmqy48izh278eqkq7",
+        "space_id": "33TWkPtQ7hBTFUJ08ibYIJCQeJB"
+    },
+    {
+        "thing_name": "33WbU7asl4FiibfmW4jDVvwm1K4_cbmv4yt3hcj3xfxg8d",
+        "device_id": "cbmv4yt3hcj3xfxg8d",
+        "space_id": "33WbU7asl4FiibfmW4jDVvwm1K4"
+    },
+    {
+        "thing_name": "33XN4mLZadueLMsl2cDOoe9uCny_cbmak2g7cwycdppdcd",
+        "device_id": "cbmak2g7cwycdppdcd",
+        "space_id": "33XN4mLZadueLMsl2cDOoe9uCny"
+    },
+    {
+        "thing_name": "33YkeouoLagzC89qwlkzYG8nmx8_cbm3yy6tv8rmxiwwhw",
+        "device_id": "cbm3yy6tv8rmxiwwhw",
+        "space_id": "33YkeouoLagzC89qwlkzYG8nmx8"
+    },
+    {
+        "thing_name": "33ZuxlzDUsHto5i6MkHHjdSXZ9Y_cbmat2wmjx7jm6ua4s",
+        "device_id": "cbmat2wmjx7jm6ua4s",
+        "space_id": "33ZuxlzDUsHto5i6MkHHjdSXZ9Y"
+    },
+    {
+        "thing_name": "33ceDSt5sIm8FakMwNCrYGgZ6Eq_cbmr6v89gwx4kzvckd",
+        "device_id": "cbmr6v89gwx4kzvckd",
+        "space_id": "33ceDSt5sIm8FakMwNCrYGgZ6Eq"
+    },
+    {
+        "thing_name": "33ejoDsYjmqZyJHh2c2JDCmQVUx_cbmuhgugfuin348gm6",
+        "device_id": "cbmuhgugfuin348gm6",
+        "space_id": "33ejoDsYjmqZyJHh2c2JDCmQVUx"
+    },
+    {
+        "thing_name": "33eyGKcmiZzo9IjRK5gbA5CeK9D_cbm6km4kdzizh9dgn4",
+        "device_id": "cbm6km4kdzizh9dgn4",
+        "space_id": "33eyGKcmiZzo9IjRK5gbA5CeK9D"
+    },
+    {
+        "thing_name": "32nnD7kuLSLnuKdfHlw8dlqXYb9_cbmqv3q6pzxuvuztt9",
+        "device_id": "cbmqv3q6pzxuvuztt9",
+        "space_id": "32nnD7kuLSLnuKdfHlw8dlqXYb9"
+    },
+    {
+        "thing_name": "33hkYK0eGGXHfJjz5I5yIKXNVvH_cbm3th22tub6ig5hwu",
+        "device_id": "cbm3th22tub6ig5hwu",
+        "space_id": "33hkYK0eGGXHfJjz5I5yIKXNVvH"
+    },
+    {
+        "thing_name": "33hu9rpC3vvM9690RcZrxAxupGv_cbmp2yzcapkwhftydx",
+        "device_id": "cbmp2yzcapkwhftydx",
+        "space_id": "33hu9rpC3vvM9690RcZrxAxupGv"
+    },
+    {
+        "thing_name": "33i61SawLiXqhCq11ZgyAdSyXx8_cbmzxc9fipwnccen69",
+        "device_id": "cbmzxc9fipwnccen69",
+        "space_id": "33i61SawLiXqhCq11ZgyAdSyXx8"
+    },
+    {
+        "thing_name": "33iJndMMxaLEbHgh1u4lV19FTSS_cbmyjuras49gtc77qe",
+        "device_id": "cbmyjuras49gtc77qe",
+        "space_id": "33iJndMMxaLEbHgh1u4lV19FTSS"
+    },
+    {
+        "thing_name": "33iRd9y6osHsRpUrtDnOxCFcjHd_cbmspcwrsvu8d3p5sb",
+        "device_id": "cbmspcwrsvu8d3p5sb",
+        "space_id": "33iRd9y6osHsRpUrtDnOxCFcjHd"
+    },
+    {
+        "thing_name": "33kEFmazDajd8yL58g5puTrYBc4_cbmfwqynbary93cj39",
+        "device_id": "cbmfwqynbary93cj39",
+        "space_id": "33kEFmazDajd8yL58g5puTrYBc4"
+    },
+    {
+        "thing_name": "33knk8ACEkfJSFRPXiEMpt51qte_cbm7f66sjurzjv3gsr",
+        "device_id": "cbm7f66sjurzjv3gsr",
+        "space_id": "33knk8ACEkfJSFRPXiEMpt51qte"
+    },
+    {
+        "thing_name": "33kzX6vk6mPBTeyRJfK2vAIZ1Vi_cbm873s2thrxys8qvp",
+        "device_id": "cbm873s2thrxys8qvp",
+        "space_id": "33kzX6vk6mPBTeyRJfK2vAIZ1Vi"
+    },
+    {
+        "thing_name": "33l7KYXG5A3kXfvtxCtzGaxSqZb_cbm5k55x6fvhxhduqz",
+        "device_id": "cbm5k55x6fvhxhduqz",
+        "space_id": "33l7KYXG5A3kXfvtxCtzGaxSqZb"
+    },
+    {
+        "thing_name": "33lBJSVSj3b3IgbGhOOV4XaG7p6_cbm9a5iehbdaei76fz",
+        "device_id": "cbm9a5iehbdaei76fz",
+        "space_id": "33lBJSVSj3b3IgbGhOOV4XaG7p6"
+    },
+    {
+        "thing_name": "33lFU5xiZYNWEoBUqqwQuuqIJbD_cbm7kk5ysnfz6fimd9",
+        "device_id": "cbm7kk5ysnfz6fimd9",
+        "space_id": "33lFU5xiZYNWEoBUqqwQuuqIJbD"
+    },
+    {
+        "thing_name": "33lWGGTKb8TxYQ39QA8CU8tQrX6_cbmxpekwujguffxuz5",
+        "device_id": "cbmxpekwujguffxuz5",
+        "space_id": "33lWGGTKb8TxYQ39QA8CU8tQrX6"
+    },
+    {
+        "thing_name": "33nBS28JP9xxKH7axeKhbZINlxS_cbmvje23bm43q2j3yv",
+        "device_id": "cbmvje23bm43q2j3yv",
+        "space_id": "33nBS28JP9xxKH7axeKhbZINlxS"
+    },
+    {
+        "thing_name": "33nxZDz2qJueDj7ZmJA7a1M7trP_cbmu4z6eurn4t3b2cd",
+        "device_id": "cbmu4z6eurn4t3b2cd",
+        "space_id": "33nxZDz2qJueDj7ZmJA7a1M7trP"
+    },
+    {
+        "thing_name": "33oLPushriq1m5Wv2Wbw6m6ZSX1_cbmyg48x4dggankjvx",
+        "device_id": "cbmyg48x4dggankjvx",
+        "space_id": "33oLPushriq1m5Wv2Wbw6m6ZSX1"
+    },
+    {
+        "thing_name": "33prC2ibODgvVkD95GGNf8zbHhQ_cbm6i3ygz5swzg44dx",
+        "device_id": "cbm6i3ygz5swzg44dx",
+        "space_id": "33prC2ibODgvVkD95GGNf8zbHhQ"
+    },
+    {
+        "thing_name": "33pvKkpCTxix8BZaddUVDlfxopP_cbmfi69erby265jp9c",
+        "device_id": "cbmfi69erby265jp9c",
+        "space_id": "33pvKkpCTxix8BZaddUVDlfxopP"
+    },
+    {
+        "thing_name": "33q7UZwcwuRkkQ6IRyF8vG3j3DY_cbmns45n9f3jzmqce6",
+        "device_id": "cbmns45n9f3jzmqce6",
+        "space_id": "33q7UZwcwuRkkQ6IRyF8vG3j3DY"
+    },
+    {
+        "thing_name": "33qj33Yz1U5xBMRooogocegGOIY_cbmys2wt9kraqxv75c",
+        "device_id": "cbmys2wt9kraqxv75c",
+        "space_id": "33qj33Yz1U5xBMRooogocegGOIY"
+    },
+    {
+        "thing_name": "33ZcuK2sZHRfWgExXyFk32FPfQt_cbmz57xhup2gz5u6ax",
+        "device_id": "cbmz57xhup2gz5u6ax",
+        "space_id": "33ZcuK2sZHRfWgExXyFk32FPfQt"
+    },
+    {
+        "thing_name": "33w4o7BDTvJ7d8N3mT2SNEcOvMF_cbmhq59a32u7ssi6sf",
+        "device_id": "cbmhq59a32u7ssi6sf",
+        "space_id": "33w4o7BDTvJ7d8N3mT2SNEcOvMF"
+    },
+    {
+        "thing_name": "33wV7qJH3dAIGfpTCht9HThugwC_cbm8ns5jzxn28iijzm",
+        "device_id": "cbm8ns5jzxn28iijzm",
+        "space_id": "33wV7qJH3dAIGfpTCht9HThugwC"
+    },
+    {
+        "thing_name": "32Qq0dsWTo8M3w0PUEUjATEKMdz_cbmsidw4xhfr9kkkfa",
+        "device_id": "cbmsidw4xhfr9kkkfa",
+        "space_id": "32Qq0dsWTo8M3w0PUEUjATEKMdz"
+    },
+    {
+        "thing_name": "341rWfOFZuwpsn0FClIEmFebQsU_cbmmfrafvrsxnhcaia",
+        "device_id": "cbmmfrafvrsxnhcaia",
+        "space_id": "341rWfOFZuwpsn0FClIEmFebQsU"
+    },
+    {
+        "thing_name": "341yOHo8kQwWt3PKhKNCokAKFd5_cbm4et7mi5rcybi4pu",
+        "device_id": "cbm4et7mi5rcybi4pu",
+        "space_id": "341yOHo8kQwWt3PKhKNCokAKFd5"
+    },
+    {
+        "thing_name": "3428xOBQhhDYeJ1K7oRFrH91u0n_cbm3mrg7kc575tv6fx",
+        "device_id": "cbm3mrg7kc575tv6fx",
+        "space_id": "3428xOBQhhDYeJ1K7oRFrH91u0n"
+    },
+    {
+        "thing_name": "3445oypGY96PebUpXDQCIb0zUSE_cbmyt5xhjrwcf22gi5",
+        "device_id": "cbmyt5xhjrwcf22gi5",
+        "space_id": "3445oypGY96PebUpXDQCIb0zUSE"
+    },
+    {
+        "thing_name": "344IIevMcmrx142zIgtnL0aZ6cU_cbm7yh867hng49ddqp",
+        "device_id": "cbm7yh867hng49ddqp",
+        "space_id": "344IIevMcmrx142zIgtnL0aZ6cU"
+    },
+    {
+        "thing_name": "344YkGAu722iNIyPlw7g1qPn5aP_cbmtkbvke4ygmn9e3d",
+        "device_id": "cbmtkbvke4ygmn9e3d",
+        "space_id": "344YkGAu722iNIyPlw7g1qPn5aP"
+    },
+    {
+        "thing_name": "344sw40XkzAyPyVOkALIFaA1prz_cbmsgti4c9np6ybw3j",
+        "device_id": "cbmsgti4c9np6ybw3j",
+        "space_id": "344sw40XkzAyPyVOkALIFaA1prz"
+    },
+    {
+        "thing_name": "344tRIv4J9g5vWYpgcTzyDVRtpY_cbmcbpvar6xpdbfta2",
+        "device_id": "cbmcbpvar6xpdbfta2",
+        "space_id": "344tRIv4J9g5vWYpgcTzyDVRtpY"
+    },
+    {
+        "thing_name": "3456c6e8MSxhi2USQyy5CkVMqt4_cbm69fg38xqc9zgu5v",
+        "device_id": "cbm69fg38xqc9zgu5v",
+        "space_id": "3456c6e8MSxhi2USQyy5CkVMqt4"
+    },
+    {
+        "thing_name": "345AC8BEVQTPKlO9qb6aff85BXS_cbmj9mryxxf583k9gs",
+        "device_id": "cbmj9mryxxf583k9gs",
+        "space_id": "345AC8BEVQTPKlO9qb6aff85BXS"
+    },
+    {
+        "thing_name": "346sRFwNbnld4RfUjsfFPIJGbeg_cbmnj7mxyicmgpbag8",
+        "device_id": "cbmnj7mxyicmgpbag8",
+        "space_id": "346sRFwNbnld4RfUjsfFPIJGbeg"
+    },
+    {
+        "thing_name": "347REkatkAkqlUjnfGR4VMZKx5I_cbmkgrsfahtwiqaf2w",
+        "device_id": "cbmkgrsfahtwiqaf2w",
+        "space_id": "347REkatkAkqlUjnfGR4VMZKx5I"
+    },
+    {
+        "thing_name": "347TUfuPyHAZfYxqWb35paDgHni_cbm84hmt38jr4kz9nw",
+        "device_id": "cbm84hmt38jr4kz9nw",
+        "space_id": "347TUfuPyHAZfYxqWb35paDgHni"
+    },
+    {
+        "thing_name": "347aT4H1mA3nqamEDl0NmWKTfzY_cbmangcbrmz8ap76a6",
+        "device_id": "cbmangcbrmz8ap76a6",
+        "space_id": "347aT4H1mA3nqamEDl0NmWKTfzY"
+    },
+    {
+        "thing_name": "347vmQM7JjUIb4THpz9msfmQ0ou_cbm5mxzna5y5wfuyh6",
+        "device_id": "cbm5mxzna5y5wfuyh6",
+        "space_id": "347vmQM7JjUIb4THpz9msfmQ0ou"
+    },
+    {
+        "thing_name": "34DERNtWoiVW74dBRJX96HM1UM2_cbm7q676sk3y5xvr2f",
+        "device_id": "cbm7q676sk3y5xvr2f",
+        "space_id": "34DERNtWoiVW74dBRJX96HM1UM2"
+    },
+    {
+        "thing_name": "34DTVI7gItws7027L0Mt3QqiGv6_cbm8ysfv993izccacx",
+        "device_id": "cbm8ysfv993izccacx",
+        "space_id": "34DTVI7gItws7027L0Mt3QqiGv6"
+    },
+    {
+        "thing_name": "34DbO08atKzaEPsfsRB5B540BhI_cbm6y46rtfxrstxm6v",
+        "device_id": "cbm6y46rtfxrstxm6v",
+        "space_id": "34DbO08atKzaEPsfsRB5B540BhI"
+    },
+    {
+        "thing_name": "34Dy75VH8YVI32BFJxtusUofNiI_cbmyfu7qt4ixjmwdt6",
+        "device_id": "cbmyfu7qt4ixjmwdt6",
+        "space_id": "34Dy75VH8YVI32BFJxtusUofNiI"
+    },
+    {
+        "thing_name": "34FkTD4vbmac952Ohs7TQXwazO3_cbm6a4rkj39wwszgk3",
+        "device_id": "cbm6a4rkj39wwszgk3",
+        "space_id": "34FkTD4vbmac952Ohs7TQXwazO3"
+    },
+    {
+        "thing_name": "34G7O9BuAzJy7mSYL9ZFvPZ1BzB_cbm2vnzju5aytx2rfr",
+        "device_id": "cbm2vnzju5aytx2rfr",
+        "space_id": "34G7O9BuAzJy7mSYL9ZFvPZ1BzB"
+    },
+    {
+        "thing_name": "34GEdQ07J1dcIjCs2qKaB7DELHM_cbmsiwy3g8ek8q4263",
+        "device_id": "cbmsiwy3g8ek8q4263",
+        "space_id": "34GEdQ07J1dcIjCs2qKaB7DELHM"
+    },
+    {
+        "thing_name": "34GU6CSD6l7MIJkOgcYc7lW4R6I_cbmh788v48cs4ait58",
+        "device_id": "cbmh788v48cs4ait58",
+        "space_id": "34GU6CSD6l7MIJkOgcYc7lW4R6I"
+    },
+    {
+        "thing_name": "34J3vSaA9K8zhocvGq60HUW5BFp_cbmijjprcendhtrkvk",
+        "device_id": "cbmijjprcendhtrkvk",
+        "space_id": "34J3vSaA9K8zhocvGq60HUW5BFp"
+    },
+    {
+        "thing_name": "34JHVTBgyW1PpuACDrj9SMcNLhh_cbmmpwqrmzn88vw3aa",
+        "device_id": "cbmmpwqrmzn88vw3aa",
+        "space_id": "34JHVTBgyW1PpuACDrj9SMcNLhh"
+    },
+    {
+        "thing_name": "34Ko8htSqwMsZb6yBAR0Cf6sCdt_cbmdfgiqac7k2pjg7c",
+        "device_id": "cbmdfgiqac7k2pjg7c",
+        "space_id": "34Ko8htSqwMsZb6yBAR0Cf6sCdt"
+    },
+    {
+        "thing_name": "34L8fwMumq1pVfcuGtgnWDvLvZu_cbmx6ugbjkaqvyyn2u",
+        "device_id": "cbmx6ugbjkaqvyyn2u",
+        "space_id": "34L8fwMumq1pVfcuGtgnWDvLvZu"
+    },
+    {
+        "thing_name": "34LVIoiUqg8gDVVf7dl6m2Xqc0H_cbmqg624kwcfw5tgt7",
+        "device_id": "cbmqg624kwcfw5tgt7",
+        "space_id": "34LVIoiUqg8gDVVf7dl6m2Xqc0H"
+    },
+    {
+        "thing_name": "34LaHdYHEHtQyhG9WvtRyrr7aFt_cbmf29s5d9pikwuy7x",
+        "device_id": "cbmf29s5d9pikwuy7x",
+        "space_id": "34LaHdYHEHtQyhG9WvtRyrr7aFt"
+    },
+    {
+        "thing_name": "34LjtUFDbCZxWdUd9zwzLM38HjH_cbmtmwf9jwyts644x2",
+        "device_id": "cbmtmwf9jwyts644x2",
+        "space_id": "34LjtUFDbCZxWdUd9zwzLM38HjH"
+    },
+    {
+        "thing_name": "34O871ZYaDRj1daDxCLiVE9YKiQ_cbmrpyewummbprq4ug",
+        "device_id": "cbmrpyewummbprq4ug",
+        "space_id": "34O871ZYaDRj1daDxCLiVE9YKiQ"
+    },
+    {
+        "thing_name": "34Ohhf3Ux5DKjChWk0LwgDv8pkP_cbm6vaqiih7cfdmimi",
+        "device_id": "cbm6vaqiih7cfdmimi",
+        "space_id": "34Ohhf3Ux5DKjChWk0LwgDv8pkP"
+    },
+    {
+        "thing_name": "34Ol360reVS037msqEMarMp5lud_cbmrnn7f5kbtvqenfq",
+        "device_id": "cbmrnn7f5kbtvqenfq",
+        "space_id": "34Ol360reVS037msqEMarMp5lud"
+    },
+    {
+        "thing_name": "34OJSTshsG7FTK3ADcyooWE7yOx_cbmpad7s9jp64fw6uc",
+        "device_id": "cbmpad7s9jp64fw6uc",
+        "space_id": "34OJSTshsG7FTK3ADcyooWE7yOx"
+    },
+    {
+        "thing_name": "34QjxqVRK1gq87FHXeTlphrGv6R_cbmg7dhtqx5whr4cb7",
+        "device_id": "cbmg7dhtqx5whr4cb7",
+        "space_id": "34QjxqVRK1gq87FHXeTlphrGv6R"
+    },
+    {
+        "thing_name": "34R4MLMoDwWBB39zFEY8Lb0ZOI1_cbm3h2zfzjbnfcym9s",
+        "device_id": "cbm3h2zfzjbnfcym9s",
+        "space_id": "34R4MLMoDwWBB39zFEY8Lb0ZOI1"
+    },
+    {
+        "thing_name": "34RLTTLvlMJsV2qFo2ZIlQwUUFA_cbmzup3se2sbi3tedh",
+        "device_id": "cbmzup3se2sbi3tedh",
+        "space_id": "34RLTTLvlMJsV2qFo2ZIlQwUUFA"
+    },
+    {
+        "thing_name": "34ROpg9p3IoMhz10uEvb9JN4sNx_cbm898ephy6n47wi52",
+        "device_id": "cbm898ephy6n47wi52",
+        "space_id": "34ROpg9p3IoMhz10uEvb9JN4sNx"
+    },
+    {
+        "thing_name": "34RizfztGA7NWymuXDYpFwxN5hF_cbm8jfz6h5zjfi7qf6",
+        "device_id": "cbm8jfz6h5zjfi7qf6",
+        "space_id": "34RizfztGA7NWymuXDYpFwxN5hF"
+    },
+    {
+        "thing_name": "34TSdS1as3HCQ1zqFSMoZp3sc3o_cbm5iatze6xnc3thuj",
+        "device_id": "cbm5iatze6xnc3thuj",
+        "space_id": "34TSdS1as3HCQ1zqFSMoZp3sc3o"
+    },
+    {
+        "thing_name": "34TwUd1L0EV0pHuPPdjJsugpoy9_cbmumefr6csfrkvsx7",
+        "device_id": "cbmumefr6csfrkvsx7",
+        "space_id": "34TwUd1L0EV0pHuPPdjJsugpoy9"
+    },
+    {
+        "thing_name": "34U8GosCUd4dnYV7zO9L2RJDcrR_cbmncq3pe9tiijnpj9",
+        "device_id": "cbmncq3pe9tiijnpj9",
+        "space_id": "34U8GosCUd4dnYV7zO9L2RJDcrR"
+    },
+    {
+        "thing_name": "34UCTWARXFeePZmOLiK3C0xB1fC_cbmb2sussz936vwdc3",
+        "device_id": "cbmb2sussz936vwdc3",
+        "space_id": "34UCTWARXFeePZmOLiK3C0xB1fC"
+    },
+    {
+        "thing_name": "34UG3GyAzBG48XPdzaCyAYdhr2X_cbmvqbp9v34qggsavg",
+        "device_id": "cbmvqbp9v34qggsavg",
+        "space_id": "34UG3GyAzBG48XPdzaCyAYdhr2X"
+    },
+    {
+        "thing_name": "34We3KZXlrxT9En4zzoMBLVfizd_cbmcubc8273pt4izh3",
+        "device_id": "cbmcubc8273pt4izh3",
+        "space_id": "34We3KZXlrxT9En4zzoMBLVfizd"
+    },
+    {
+        "thing_name": "34WmIA9wC320P6xqvaJY7LxxpTT_cbm6stfku3ucteuyq4",
+        "device_id": "cbm6stfku3ucteuyq4",
+        "space_id": "34WmIA9wC320P6xqvaJY7LxxpTT"
+    },
+    {
+        "thing_name": "34XG4j55jABqPzw1vvPiadV8fpj_cbmbakhk4zwhiff4yn",
+        "device_id": "cbmbakhk4zwhiff4yn",
+        "space_id": "34XG4j55jABqPzw1vvPiadV8fpj"
+    },
+    {
+        "thing_name": "34Za7LlTCEGeqb5TpQsbI7vJ5Hk_cbmshyxwgdh7ue858z",
+        "device_id": "cbmshyxwgdh7ue858z",
+        "space_id": "34Za7LlTCEGeqb5TpQsbI7vJ5Hk"
+    },
+    {
+        "thing_name": "34ZgbquUwsNncL5jiaIrjTEaurG_cbmepfe488hveaiz52",
+        "device_id": "cbmepfe488hveaiz52",
+        "space_id": "34ZgbquUwsNncL5jiaIrjTEaurG"
+    },
+    {
+        "thing_name": "34aCoRZlcfxcZjHfGqbU7DubXqD_cbm9xzzx57v6chaqe8",
+        "device_id": "cbm9xzzx57v6chaqe8",
+        "space_id": "34aCoRZlcfxcZjHfGqbU7DubXqD"
+    },
+    {
+        "thing_name": "34VuIU0uAIgETzFHLuWhuF7rwW1_cbmepedidzpigx93nt",
+        "device_id": "cbmepedidzpigx93nt",
+        "space_id": "34VuIU0uAIgETzFHLuWhuF7rwW1"
+    },
+    {
+        "thing_name": "34f7W5XSHYjXT0tBI3aQ5zeXVFl_cbmwg96by4i6vimv6f",
+        "device_id": "cbmwg96by4i6vimv6f",
+        "space_id": "34f7W5XSHYjXT0tBI3aQ5zeXVFl"
+    },
+    {
+        "thing_name": "34hyuWAmoX9d2PgCamhNJ6JEUZh_cbmg5x5zc33jax3ezc",
+        "device_id": "cbmg5x5zc33jax3ezc",
+        "space_id": "34hyuWAmoX9d2PgCamhNJ6JEUZh"
+    },
+    {
+        "thing_name": "34htySivO9Zd1G80YftQlDRcIiv_cbm4dmnjyues6bnm6r",
+        "device_id": "cbm4dmnjyues6bnm6r",
+        "space_id": "34htySivO9Zd1G80YftQlDRcIiv"
+    },
+    {
+        "thing_name": "34iULsez6CcS3mbIXNZMRX34HnQ_cbm77b6tgx3qnhr754",
+        "device_id": "cbm77b6tgx3qnhr754",
+        "space_id": "34iULsez6CcS3mbIXNZMRX34HnQ"
+    },
+    {
+        "thing_name": "34klYpNsV15fhy47awx46jBZNFV_cbmkry9harq7r5ykwv",
+        "device_id": "cbmkry9harq7r5ykwv",
+        "space_id": "34klYpNsV15fhy47awx46jBZNFV"
+    },
+    {
+        "thing_name": "34l8qsO9mPk9fN4mhNw5L0P81Rl_cbmpkkj3kimnpjzrcj",
+        "device_id": "cbmpkkj3kimnpjzrcj",
+        "space_id": "34l8qsO9mPk9fN4mhNw5L0P81Rl"
+    },
+    {
+        "thing_name": "34nVApq4zuu3GFU8LmeCoJcAgEU_cbmnmh9a5m762rempq",
+        "device_id": "cbmnmh9a5m762rempq",
+        "space_id": "34nVApq4zuu3GFU8LmeCoJcAgEU"
+    },
+    {
+        "thing_name": "34nmO2fyaCLAcq2IABo2f7rryQk_cbmt7k6wxs2va6ybas",
+        "device_id": "cbmt7k6wxs2va6ybas",
+        "space_id": "34nmO2fyaCLAcq2IABo2f7rryQk"
+    },
+    {
+        "thing_name": "342V4rXDM7KZ5rIF7YAemSJYBQF_cbma25aht6ishd2d9u",
+        "device_id": "cbma25aht6ishd2d9u",
+        "space_id": "342V4rXDM7KZ5rIF7YAemSJYBQF"
+    },
+    {
+        "thing_name": "34qPJiZTfjHmCaAWmzQH7522hd9_cbmuik4ttiyhq77xk7",
+        "device_id": "cbmuik4ttiyhq77xk7",
+        "space_id": "34qPJiZTfjHmCaAWmzQH7522hd9"
+    },
+    {
+        "thing_name": "34iTx8iYvryffYGzSY7pBrWlEob_cbmmewvcfyiasq7qs7",
+        "device_id": "cbmmewvcfyiasq7qs7",
+        "space_id": "34iTx8iYvryffYGzSY7pBrWlEob"
+    },
+    {
+        "thing_name": "34ynCwwPyuUopCEn2gXkl5Y8n91_cbmi7uwvr2zqztycgb",
+        "device_id": "cbmi7uwvr2zqztycgb",
+        "space_id": "34ynCwwPyuUopCEn2gXkl5Y8n91"
+    },
+    {
+        "thing_name": "34z9JBfiVcNLGzVcj30VNEzqqIy_cbm6ft93yvnjqik895",
+        "device_id": "cbm6ft93yvnjqik895",
+        "space_id": "34z9JBfiVcNLGzVcj30VNEzqqIy"
+    },
+    {
+        "thing_name": "353KHbjhSA4fAo0YtyBBYMhadMF_cbm4iz62mijwqkyr96",
+        "device_id": "cbm4iz62mijwqkyr96",
+        "space_id": "353KHbjhSA4fAo0YtyBBYMhadMF"
+    },
+    {
+        "thing_name": "357rQn8SjusGd5ggCghiNKwvXNS_cbm8hdsnpgdp348j3y",
+        "device_id": "cbm8hdsnpgdp348j3y",
+        "space_id": "357rQn8SjusGd5ggCghiNKwvXNS"
+    },
+    {
+        "thing_name": "359tX29RmNCKIYfQGRf3uvr1k45_cbmekwf2us779g28a4",
+        "device_id": "cbmekwf2us779g28a4",
+        "space_id": "359tX29RmNCKIYfQGRf3uvr1k45"
+    },
+    {
+        "thing_name": "35AWqlir3dYjZ2K0AXEMa9QeT6w_cbmx93egcqcxd5fbqe",
+        "device_id": "cbmx93egcqcxd5fbqe",
+        "space_id": "35AWqlir3dYjZ2K0AXEMa9QeT6w"
+    },
+    {
+        "thing_name": "35AzbEE4JE7YDOjEOfYCLqW9Kdm_cbmp7au2a69tztwyjm",
+        "device_id": "cbmp7au2a69tztwyjm",
+        "space_id": "35AzbEE4JE7YDOjEOfYCLqW9Kdm"
+    },
+    {
+        "thing_name": "35BGU2fKkcJ2hsFORhZ7S0tYDLP_cbm33ug2d73pv3nc6s",
+        "device_id": "cbm33ug2d73pv3nc6s",
+        "space_id": "35BGU2fKkcJ2hsFORhZ7S0tYDLP"
+    },
+    {
+        "thing_name": "35CUHf4CpP2KlmCwRopnqgKfrT0_cbmcwk5gk87izs9xt7",
+        "device_id": "cbmcwk5gk87izs9xt7",
+        "space_id": "35CUHf4CpP2KlmCwRopnqgKfrT0"
+    },
+    {
+        "thing_name": "35DA8S5fAaB5XiPfdKDaR3oR8xB_cbmmiasfp7h63xxmzf",
+        "device_id": "cbmmiasfp7h63xxmzf",
+        "space_id": "35DA8S5fAaB5XiPfdKDaR3oR8xB"
+    },
+    {
+        "thing_name": "35DqhoNUtQiuVranzWb3llTGzBu_cbm77upzwaua7x5ygt",
+        "device_id": "cbm77upzwaua7x5ygt",
+        "space_id": "35DqhoNUtQiuVranzWb3llTGzBu"
+    },
+    {
+        "thing_name": "35GHXpqyUtadnwl2yBphkCQMRd6_cbmy5i5dhdhghb39bs",
+        "device_id": "cbmy5i5dhdhghb39bs",
+        "space_id": "35GHXpqyUtadnwl2yBphkCQMRd6"
+    },
+    {
+        "thing_name": "35IqPH0WsX0M4N4PI9OtfnzkG92_cbmxi93wj84q4kdi2q",
+        "device_id": "cbmxi93wj84q4kdi2q",
+        "space_id": "35IqPH0WsX0M4N4PI9OtfnzkG92"
+    },
+    {
+        "thing_name": "35J7OWTcrZMWyUkw07aP7uyi0CI_cbmgqkus4m6r8cuvr3",
+        "device_id": "cbmgqkus4m6r8cuvr3",
+        "space_id": "35J7OWTcrZMWyUkw07aP7uyi0CI"
+    },
+    {
+        "thing_name": "35JontfDTtb15t4J29M2w7cdzkE_cbmchvkrhfwmvawxay",
+        "device_id": "cbmchvkrhfwmvawxay",
+        "space_id": "35JontfDTtb15t4J29M2w7cdzkE"
+    },
+    {
+        "thing_name": "35LLrB94h20qDc9bS8tNTAe1mpQ_cbmfnjh83vmzq8yziz",
+        "device_id": "cbmfnjh83vmzq8yziz",
+        "space_id": "35LLrB94h20qDc9bS8tNTAe1mpQ"
+    },
+    {
+        "thing_name": "34UT8byrwBPtmi7j6mflMK4kstZ_cbmagfbmzd3jqvvf55",
+        "device_id": "cbmagfbmzd3jqvvf55",
+        "space_id": "34UT8byrwBPtmi7j6mflMK4kstZ"
+    },
+    {
+        "thing_name": "35M16fxxgmctThHwqQfRC51FVsp_cbmfawpncy4ntk72bt",
+        "device_id": "cbmfawpncy4ntk72bt",
+        "space_id": "35M16fxxgmctThHwqQfRC51FVsp"
+    },
+    {
+        "thing_name": "35LzCHIB01WmpskqpfIRaW9HQvJ_cbmnqmpk93ntiea4n6",
+        "device_id": "cbmnqmpk93ntiea4n6",
+        "space_id": "35LzCHIB01WmpskqpfIRaW9HQvJ"
+    },
+    {
+        "thing_name": "35MEthZtRH8DqI1rsIM57o2zrHH_cbmg74qhj6v4jpiib7",
+        "device_id": "cbmg74qhj6v4jpiib7",
+        "space_id": "35MEthZtRH8DqI1rsIM57o2zrHH"
+    },
+    {
+        "thing_name": "35MygJeES5n1IgouxSWiBSSaYMG_cbm2t9y8g7aba5y57z",
+        "device_id": "cbm2t9y8g7aba5y57z",
+        "space_id": "35MygJeES5n1IgouxSWiBSSaYMG"
+    },
+    {
+        "thing_name": "35OMTg19GyBO5mwVO4u7Rz2V69B_cbmngmyq52mykxu55j",
+        "device_id": "cbmngmyq52mykxu55j",
+        "space_id": "35OMTg19GyBO5mwVO4u7Rz2V69B"
+    },
+    {
+        "thing_name": "35ObC7z7eP14c6YtZzZlIUtEEWQ_cbminjm89pi6ghyjb5",
+        "device_id": "cbminjm89pi6ghyjb5",
+        "space_id": "35ObC7z7eP14c6YtZzZlIUtEEWQ"
+    },
+    {
+        "thing_name": "35P6hSSjvRWVUQErYlKDSjsvGGY_cbm4gj78qpkyibirak",
+        "device_id": "cbm4gj78qpkyibirak",
+        "space_id": "35P6hSSjvRWVUQErYlKDSjsvGGY"
+    },
+    {
+        "thing_name": "35R87p9jYDUsP6qU9zwoJq0f28d_cbm724y7zqh79bg9dn",
+        "device_id": "cbm724y7zqh79bg9dn",
+        "space_id": "35R87p9jYDUsP6qU9zwoJq0f28d"
+    },
+    {
+        "thing_name": "35RCMmgsywhZEAbvvNkgQMgBNrb_cbmmuu4t5kefqswjqy",
+        "device_id": "cbmmuu4t5kefqswjqy",
+        "space_id": "35RCMmgsywhZEAbvvNkgQMgBNrb"
+    },
+    {
+        "thing_name": "35RNeUiYoL0KoJ32s513mtDOjDf_cbmhqbtpj2m6cguy7v",
+        "device_id": "cbmhqbtpj2m6cguy7v",
+        "space_id": "35RNeUiYoL0KoJ32s513mtDOjDf"
+    },
+    {
+        "thing_name": "35RQGI1KVWJ1BEJczMXYihO8RX3_cbmb67wjw3e452bu4f",
+        "device_id": "cbmb67wjw3e452bu4f",
+        "space_id": "35RQGI1KVWJ1BEJczMXYihO8RX3"
+    },
+    {
+        "thing_name": "35Tlv43s9vPawqTmn8oZ6FAr7Z9_cbmtk4w4kqsg4qqm7m",
+        "device_id": "cbmtk4w4kqsg4qqm7m",
+        "space_id": "35Tlv43s9vPawqTmn8oZ6FAr7Z9"
+    },
+    {
+        "thing_name": "35Tk3pui8xWyOpgclQuAduo3P0G_cbmcnwa26xftjbuk7f",
+        "device_id": "cbmcnwa26xftjbuk7f",
+        "space_id": "35Tk3pui8xWyOpgclQuAduo3P0G"
+    },
+    {
+        "thing_name": "35UA7zDVW1qZzoEayPnaMRiIZtx_cbmp2thguhz9zepsnt",
+        "device_id": "cbmp2thguhz9zepsnt",
+        "space_id": "35UA7zDVW1qZzoEayPnaMRiIZtx"
+    },
+    {
+        "thing_name": "35UOhTttDN4HZHFmwGwGaCYUnHi_cbmvwu5yrfph32vpy9",
+        "device_id": "cbmvwu5yrfph32vpy9",
+        "space_id": "35UOhTttDN4HZHFmwGwGaCYUnHi"
+    },
+    {
+        "thing_name": "35WYTNq0ulX0SL58wcOfmTnRjaT_cbm43szgfenkif4maw",
+        "device_id": "cbm43szgfenkif4maw",
+        "space_id": "35WYTNq0ulX0SL58wcOfmTnRjaT"
+    },
+    {
+        "thing_name": "35XEKj3R1g3AuWOjOqwE3d1Ux22_cbmk226tmi976cmhik",
+        "device_id": "cbmk226tmi976cmhik",
+        "space_id": "35XEKj3R1g3AuWOjOqwE3d1Ux22"
+    },
+    {
+        "thing_name": "35aJd5jyJP0oOb584JvDBfnzd3y_cbmi4i3gddxbdqpnns",
+        "device_id": "cbmi4i3gddxbdqpnns",
+        "space_id": "35aJd5jyJP0oOb584JvDBfnzd3y"
+    },
+    {
+        "thing_name": "35coEf19IuXtGvuLf1rjzNdMnyq_cbmg8nknjfpdguvp5f",
+        "device_id": "cbmg8nknjfpdguvp5f",
+        "space_id": "35coEf19IuXtGvuLf1rjzNdMnyq"
+    },
+    {
+        "thing_name": "35exs6xOlYrAnKRXYYTDSmHgCxL_cbmzy6g9jq2im5qy79",
+        "device_id": "cbmzy6g9jq2im5qy79",
+        "space_id": "35exs6xOlYrAnKRXYYTDSmHgCxL"
+    },
+    {
+        "thing_name": "35f9JxhHiZ1KbmzD1AdRtswYKbb_cbm8mduikfx7g8srkb",
+        "device_id": "cbm8mduikfx7g8srkb",
+        "space_id": "35f9JxhHiZ1KbmzD1AdRtswYKbb"
+    },
+    {
+        "thing_name": "35lQfY1I0nhpfLBYms3R61XgI00_cbm7rf5svuvw66bmfv",
+        "device_id": "cbm7rf5svuvw66bmfv",
+        "space_id": "35lQfY1I0nhpfLBYms3R61XgI00"
+    },
+    {
+        "thing_name": "32tfmpEveuxkiCCJwN6tin4HC6K_cbmuj6wct5uivfpvj2",
+        "device_id": "cbmuj6wct5uivfpvj2",
+        "space_id": "32tfmpEveuxkiCCJwN6tin4HC6K"
+    },
+    {
+        "thing_name": "35tZUYF2KmMVCjUy4j3SG4w2qBE_cbm5arfbciek93mqfd",
+        "device_id": "cbm5arfbciek93mqfd",
+        "space_id": "35tZUYF2KmMVCjUy4j3SG4w2qBE"
+    },
+    {
+        "thing_name": "35zCr8GcZmSXhtSDrXQt9mE3zDW_cbmxvup6b6ryfjqcvj",
+        "device_id": "cbmxvup6b6ryfjqcvj",
+        "space_id": "35zCr8GcZmSXhtSDrXQt9mE3zDW"
+    },
+    {
+        "thing_name": "35zfZyw2OicxxoHb1W5cK60vj0E_cbmu5iktf8dy6e8p7v",
+        "device_id": "cbmu5iktf8dy6e8p7v",
+        "space_id": "35zfZyw2OicxxoHb1W5cK60vj0E"
+    },
+    {
+        "thing_name": "361hvWqQrz5cr9roiJ45CmgKDG1_cbm82awhx9kynx2x4z",
+        "device_id": "cbm82awhx9kynx2x4z",
+        "space_id": "361hvWqQrz5cr9roiJ45CmgKDG1"
+    },
+    {
+        "thing_name": "35z9rYo6no1ShZ9BlioWxZ6TsPH_cbm6s52zbbth3i4i67",
+        "device_id": "cbm6s52zbbth3i4i67",
+        "space_id": "35z9rYo6no1ShZ9BlioWxZ6TsPH"
+    },
+    {
+        "thing_name": "362BUZ9wGqZFn9UOZNUmf8mZkGV_cbmpgb9ccufx7pnu4m",
+        "device_id": "cbmpgb9ccufx7pnu4m",
+        "space_id": "362BUZ9wGqZFn9UOZNUmf8mZkGV"
+    },
+    {
+        "thing_name": "367zG4Zi3FwLVSkLQsswm6HdEwJ_cbmwkhzr9dvynxk5jq",
+        "device_id": "cbmwkhzr9dvynxk5jq",
+        "space_id": "367zG4Zi3FwLVSkLQsswm6HdEwJ"
+    },
+    {
+        "thing_name": "36JGCLybYmZMEiq65KF6INx8i21_cbmtd9bw9jb57t3cym",
+        "device_id": "cbmtd9bw9jb57t3cym",
+        "space_id": "36JGCLybYmZMEiq65KF6INx8i21"
+    },
+    {
+        "thing_name": "35RVAJmlnVm0SnPKjeAgLDKu7ST_cbmathwubsr8xzj7n7",
+        "device_id": "cbmathwubsr8xzj7n7",
+        "space_id": "35RVAJmlnVm0SnPKjeAgLDKu7ST"
+    },
+    {
+        "thing_name": "36O4Y1IUivOvFqXZtBYKoM67Ogq_cbmei69scdrqhxqb66",
+        "device_id": "cbmei69scdrqhxqb66",
+        "space_id": "36O4Y1IUivOvFqXZtBYKoM67Ogq"
+    },
+    {
+        "thing_name": "36OIoJMjw14EKX3ysva4skTpjEg_cbm6svi4tgexrrbs75",
+        "device_id": "cbm6svi4tgexrrbs75",
+        "space_id": "36OIoJMjw14EKX3ysva4skTpjEg"
+    },
+    {
+        "thing_name": "36ZgmRa55UTyQ458ll52EEchlz0_cbmvkm7dqxkwqqctuc",
+        "device_id": "cbmvkm7dqxkwqqctuc",
+        "space_id": "36ZgmRa55UTyQ458ll52EEchlz0"
+    },
+    {
+        "thing_name": "36aShTqmTXZ6Oh3DR5pqHOvK1Jv_cbmudrbjjvb9d3ib4u",
+        "device_id": "cbmudrbjjvb9d3ib4u",
+        "space_id": "36aShTqmTXZ6Oh3DR5pqHOvK1Jv"
+    },
+    {
+        "thing_name": "36Zer7x13uEjf9iRk6OHwpupJRJ_cbmnhern5eyjmnbj5r",
+        "device_id": "cbmnhern5eyjmnbj5r",
+        "space_id": "36Zer7x13uEjf9iRk6OHwpupJRJ"
+    },
+    {
+        "thing_name": "36ihVCsZtwF6gQ89VMwurXauiPq_cbm3e3brqnfyf7v7wx",
+        "device_id": "cbm3e3brqnfyf7v7wx",
+        "space_id": "36ihVCsZtwF6gQ89VMwurXauiPq"
+    },
+    {
+        "thing_name": "36nvZKbdERNpHWp0YaddudAptD1_cbmpc9f9x75p9uywcf",
+        "device_id": "cbmpc9f9x75p9uywcf",
+        "space_id": "36nvZKbdERNpHWp0YaddudAptD1"
+    },
+    {
+        "thing_name": "36oLXdAIh3hMJDIb8pQIK8xD9s5_cbm95534sgsm643zmu",
+        "device_id": "cbm95534sgsm643zmu",
+        "space_id": "36oLXdAIh3hMJDIb8pQIK8xD9s5"
+    },
+    {
+        "thing_name": "36ol0x7cLuZrZcoqsUmXl7FSpDS_cbmqskbg7mufkd36z5",
+        "device_id": "cbmqskbg7mufkd36z5",
+        "space_id": "36ol0x7cLuZrZcoqsUmXl7FSpDS"
+    },
+    {
+        "thing_name": "36qnvsQwWvVrrXFMjOVIJmw37sX_cbmwjra94earcqv268",
+        "device_id": "cbmwjra94earcqv268",
+        "space_id": "36qnvsQwWvVrrXFMjOVIJmw37sX"
+    },
+    {
+        "thing_name": "36tvDrK2Kt8MexUSDZx46wg46Q5_cbm53xs4jr7jv5zkji",
+        "device_id": "cbm53xs4jr7jv5zkji",
+        "space_id": "36tvDrK2Kt8MexUSDZx46wg46Q5"
+    },
+    {
+        "thing_name": "36uXeFdaA894Dg1xr78mhSDlb46_cbmbym6m8g5n7zy3dt",
+        "device_id": "cbmbym6m8g5n7zy3dt",
+        "space_id": "36uXeFdaA894Dg1xr78mhSDlb46"
+    },
+    {
+        "thing_name": "36wIr2zZjfDT1yRDVA31cuVcevI_cbmm2pjk58if887t7r",
+        "device_id": "cbmm2pjk58if887t7r",
+        "space_id": "36wIr2zZjfDT1yRDVA31cuVcevI"
+    },
+    {
+        "thing_name": "36wm8aVXTs9ZcphxGd6otCIg27a_cbm6jpwj7tm9rni6y2",
+        "device_id": "cbm6jpwj7tm9rni6y2",
+        "space_id": "36wm8aVXTs9ZcphxGd6otCIg27a"
+    },
+    {
+        "thing_name": "36wr5jT53XK9OVrAf4JMLivkenM_cbma8fyyja65b9qyqn",
+        "device_id": "cbma8fyyja65b9qyqn",
+        "space_id": "36wr5jT53XK9OVrAf4JMLivkenM"
+    },
+    {
+        "thing_name": "36zjNyPUXEPpmYzWdpi3Jrh4BuZ_cbmtsee7ttk3w5tab7",
+        "device_id": "cbmtsee7ttk3w5tab7",
+        "space_id": "36zjNyPUXEPpmYzWdpi3Jrh4BuZ"
+    },
+    {
+        "thing_name": "370FlFVGA37djVkuw2ullowkr2S_cbmdkmesbyycu98y3s",
+        "device_id": "cbmdkmesbyycu98y3s",
+        "space_id": "370FlFVGA37djVkuw2ullowkr2S"
+    },
+    {
+        "thing_name": "36iag9c6F3WHPmvrojeH8XERhqp_cbmmkdi3uuq9jdg9c4",
+        "device_id": "cbmmkdi3uuq9jdg9c4",
+        "space_id": "36iag9c6F3WHPmvrojeH8XERhqp"
+    },
+    {
+        "thing_name": "36rQ9FmhcwMdnsPppXqRByi1Iaz_cbmtbd5a6ksiiee7us",
+        "device_id": "cbmtbd5a6ksiiee7us",
+        "space_id": "36rQ9FmhcwMdnsPppXqRByi1Iaz"
+    },
+    {
+        "thing_name": "374nwpu5VLlR9IyRFc9fCgEJN76_cbm2eq6ubgemasfyr4",
+        "device_id": "cbm2eq6ubgemasfyr4",
+        "space_id": "374nwpu5VLlR9IyRFc9fCgEJN76"
+    },
+    {
+        "thing_name": "374i8aApIWxxldaKICL8BCRxuIl_cbmi6bkpxvvssmfzy5",
+        "device_id": "cbmi6bkpxvvssmfzy5",
+        "space_id": "374i8aApIWxxldaKICL8BCRxuIl"
+    },
+    {
+        "thing_name": "375RLBxpaH0tEi3d6s1FsqjVilE_cbm2wa8skymvnzdm79",
+        "device_id": "cbm2wa8skymvnzdm79",
+        "space_id": "375RLBxpaH0tEi3d6s1FsqjVilE"
+    },
+    {
+        "thing_name": "377wim7SbHjkjH0bnKvnkAyMrIE_cbmyimqariesh52jtq",
+        "device_id": "cbmyimqariesh52jtq",
+        "space_id": "377wim7SbHjkjH0bnKvnkAyMrIE"
+    },
+    {
+        "thing_name": "3784RQNuJQFDVsseESlKt5Ffnrt_cbms28stvrmwsxz5um",
+        "device_id": "cbms28stvrmwsxz5um",
+        "space_id": "3784RQNuJQFDVsseESlKt5Ffnrt"
+    },
+    {
+        "thing_name": "378c7lKzcAMaVvq6VNZ5yOeoKuB_cbmbmrmjfichecqpj9",
+        "device_id": "cbmbmrmjfichecqpj9",
+        "space_id": "378c7lKzcAMaVvq6VNZ5yOeoKuB"
+    },
+    {
+        "thing_name": "2w7Z9aobB3jIpQcZ1HeRoeRD32P_cbmh7h7iemx47cm62x",
+        "device_id": "cbmh7h7iemx47cm62x",
+        "space_id": "2w7Z9aobB3jIpQcZ1HeRoeRD32P"
+    },
+    {
+        "thing_name": "31hQGuRaBYKxahunWGLlrNKUOmn_cbmxcdk4m93u45ksnb",
+        "device_id": "cbmxcdk4m93u45ksnb",
+        "space_id": "31hQGuRaBYKxahunWGLlrNKUOmn"
+    },
+    {
+        "thing_name": "31huU3FjYWXW0myXK5dm7OWoku2_cbmapz6t9x426zwza8",
+        "device_id": "cbmapz6t9x426zwza8",
+        "space_id": "31huU3FjYWXW0myXK5dm7OWoku2"
+    },
+    {
+        "thing_name": "31nsVlMpTBwkWs4jORgNWVMHkYe_cbmadj6467mfq29c4i",
+        "device_id": "cbmadj6467mfq29c4i",
+        "space_id": "31nsVlMpTBwkWs4jORgNWVMHkYe"
+    },
+    {
+        "thing_name": "31po1SoMQEQvDdptpoutuCHyGPJ_cbmgsecpj4j8bvj8vs",
+        "device_id": "cbmgsecpj4j8bvj8vs",
+        "space_id": "31po1SoMQEQvDdptpoutuCHyGPJ"
+    },
+    {
+        "thing_name": "31qrf2wnps6DjnuV4kE47kcLr24_cbmh7geuq36kcym2e7",
+        "device_id": "cbmh7geuq36kcym2e7",
+        "space_id": "31qrf2wnps6DjnuV4kE47kcLr24"
+    },
+    {
+        "thing_name": "31sjWA0LliNnalCeKgCORtkz192_cbmwthszxryfzh5feu",
+        "device_id": "cbmwthszxryfzh5feu",
+        "space_id": "31sjWA0LliNnalCeKgCORtkz192"
+    },
+    {
+        "thing_name": "31tX5oZkyhYGD8iQD4mzlvleWGT_cbmkhg5zy6adb2q2dx",
+        "device_id": "cbmkhg5zy6adb2q2dx",
+        "space_id": "31tX5oZkyhYGD8iQD4mzlvleWGT"
+    },
+    {
+        "thing_name": "31vVOiY49hJk9TV0eGpLJU3sAos_cbm2i9yk59ubd6ssy8",
+        "device_id": "cbm2i9yk59ubd6ssy8",
+        "space_id": "31vVOiY49hJk9TV0eGpLJU3sAos"
+    },
+    {
+        "thing_name": "31vopj1MnddC1OxX5YDPfdL3qum_cbmrhg2gw2qf4diuyj",
+        "device_id": "cbmrhg2gw2qf4diuyj",
+        "space_id": "31vopj1MnddC1OxX5YDPfdL3qum"
+    },
+    {
+        "thing_name": "31wOY0UsSbDbl7rHvanNfiuDpG7_cbmf2i6f3grtewvrgp",
+        "device_id": "cbmf2i6f3grtewvrgp",
+        "space_id": "31wOY0UsSbDbl7rHvanNfiuDpG7"
+    },
+    {
+        "thing_name": "31vBHAd2oeLywjRUuXqVA1wyU71_cbmuqj3ywpeunitbut",
+        "device_id": "cbmuqj3ywpeunitbut",
+        "space_id": "31vBHAd2oeLywjRUuXqVA1wyU71"
+    },
+    {
+        "thing_name": "3212gC8lvzm5pTFofZy1TWvMCNi_cbmwhbmskvvz5exbdw",
+        "device_id": "cbmwhbmskvvz5exbdw",
+        "space_id": "3212gC8lvzm5pTFofZy1TWvMCNi"
+    },
+    {
+        "thing_name": "329Wy8U80OB8PvbgP8L265NqAJ4_cbmnbwdihe5rq9vgdw",
+        "device_id": "cbmnbwdihe5rq9vgdw",
+        "space_id": "329Wy8U80OB8PvbgP8L265NqAJ4"
+    },
+    {
+        "thing_name": "329isz2TGOlLLa9Gz2D69ocHyMw_cbmr24qkdh5wx7gmx6",
+        "device_id": "cbmr24qkdh5wx7gmx6",
+        "space_id": "329isz2TGOlLLa9Gz2D69ocHyMw"
+    },
+    {
+        "thing_name": "32D3wWezcpPzjZC5C0ca71oiA9X_cbmvsmxhkim63ib2wj",
+        "device_id": "cbmvsmxhkim63ib2wj",
+        "space_id": "32D3wWezcpPzjZC5C0ca71oiA9X"
+    },
+    {
+        "thing_name": "32DEWLigI3ZfTjMkrtRtfrhtg11_cbm9hp5hd6exexhkp5",
+        "device_id": "cbm9hp5hd6exexhkp5",
+        "space_id": "32DEWLigI3ZfTjMkrtRtfrhtg11"
+    },
+    {
+        "thing_name": "32EyXEHOGbuzCOuL5dlLosfdmgi_cbm6hr32zwb8qt5hdz",
+        "device_id": "cbm6hr32zwb8qt5hdz",
+        "space_id": "32EyXEHOGbuzCOuL5dlLosfdmgi"
+    },
+    {
+        "thing_name": "32I3eFBRvQ2pLsD9Hg6bKwLEgM7_cbmenfccqrnw4e9caa",
+        "device_id": "cbmenfccqrnw4e9caa",
+        "space_id": "32I3eFBRvQ2pLsD9Hg6bKwLEgM7"
+    },
+    {
+        "thing_name": "32IWKlhRHtmbtMLei3rUQiJv41r_cbma5grkv4bf99k722",
+        "device_id": "cbma5grkv4bf99k722",
+        "space_id": "32IWKlhRHtmbtMLei3rUQiJv41r"
+    },
+    {
+        "thing_name": "32LHSa0TjBXs4RpRbmfZbDvxT4k_cbmqqxxc2feca5sycn",
+        "device_id": "cbmqqxxc2feca5sycn",
+        "space_id": "32LHSa0TjBXs4RpRbmfZbDvxT4k"
+    },
+    {
+        "thing_name": "32QtCdxtUrFMG4x9q1P2KPh1me5_cbmicsxayw82gfn2k4",
+        "device_id": "cbmicsxayw82gfn2k4",
+        "space_id": "32QtCdxtUrFMG4x9q1P2KPh1me5"
+    },
+    {
+        "thing_name": "32TG5TaX9VXpH4b9LPJBJh7wIsn_cbmzpm5sptdpkjnpmw",
+        "device_id": "cbmzpm5sptdpkjnpmw",
+        "space_id": "32TG5TaX9VXpH4b9LPJBJh7wIsn"
+    },
+    {
+        "thing_name": "32UdRekRXzcTeN49rWGOsMf2UrE_cbmre93hwriz7ixxt3",
+        "device_id": "cbmre93hwriz7ixxt3",
+        "space_id": "32UdRekRXzcTeN49rWGOsMf2UrE"
+    },
+    {
+        "thing_name": "32WVtmHJ13xyyiGMEmESvLhqWAH_cbmn6xryytgjdmxscm",
+        "device_id": "cbmn6xryytgjdmxscm",
+        "space_id": "32WVtmHJ13xyyiGMEmESvLhqWAH"
+    },
+    {
+        "thing_name": "32X1x4k65owAgLlnEWSmmQ4qRnk_cbmrsgfn9yzxq9ux2u",
+        "device_id": "cbmrsgfn9yzxq9ux2u",
+        "space_id": "32X1x4k65owAgLlnEWSmmQ4qRnk"
+    },
+    {
+        "thing_name": "32ZLcKLsRhUYAKufR5t1zSskAOE_cbm3v4n37fs5qqribt",
+        "device_id": "cbm3v4n37fs5qqribt",
+        "space_id": "32ZLcKLsRhUYAKufR5t1zSskAOE"
+    },
+    {
+        "thing_name": "32YevQlnpmKgAu4iLecaLrTpH2w_cbmrhxqw2rvbibbfyp",
+        "device_id": "cbmrhxqw2rvbibbfyp",
+        "space_id": "32YevQlnpmKgAu4iLecaLrTpH2w"
+    },
+    {
+        "thing_name": "32c59dFf50QwiXsSSJlIgNaW3iT_cbmvmc7rxpy9vdgsws",
+        "device_id": "cbmvmc7rxpy9vdgsws",
+        "space_id": "32c59dFf50QwiXsSSJlIgNaW3iT"
+    },
+    {
+        "thing_name": "32ceS03QF3DgSUtjaknvfhrKWoi_cbmtgc86p5ngrbnf9k",
+        "device_id": "cbmtgc86p5ngrbnf9k",
+        "space_id": "32ceS03QF3DgSUtjaknvfhrKWoi"
+    },
+    {
+        "thing_name": "32ciFIgz4ExPMoIaDHR9JeTraM1_cbmaufjtj9mbqbbgjq",
+        "device_id": "cbmaufjtj9mbqbbgjq",
+        "space_id": "32ciFIgz4ExPMoIaDHR9JeTraM1"
+    },
+    {
+        "thing_name": "32eNYb8XMXjx4cbZgGNjSNGOLWT_cbmnb96nh4tskb985v",
+        "device_id": "cbmnb96nh4tskb985v",
+        "space_id": "32eNYb8XMXjx4cbZgGNjSNGOLWT"
+    },
+    {
+        "thing_name": "32fGrtiS5p7TCl0ihkt0sTJwGHo_cbmh2rw6x6qqsw8ibs",
+        "device_id": "cbmh2rw6x6qqsw8ibs",
+        "space_id": "32fGrtiS5p7TCl0ihkt0sTJwGHo"
+    },
+    {
+        "thing_name": "32k091Woy43kMWvk2GC9JwZUwkV_cbmjnpgqd65hj5zhkg",
+        "device_id": "cbmjnpgqd65hj5zhkg",
+        "space_id": "32k091Woy43kMWvk2GC9JwZUwkV"
+    },
+    {
+        "thing_name": "32kX1RSutr8R7u0hjkIb3XrE6WT_cbm658wat78tfsgasj",
+        "device_id": "cbm658wat78tfsgasj",
+        "space_id": "32kX1RSutr8R7u0hjkIb3XrE6WT"
+    },
+    {
+        "thing_name": "32WdixSfaGBYReHBLpgNtCBeUDz_cbm5682gs4ftdvqtjt",
+        "device_id": "cbm5682gs4ftdvqtjt",
+        "space_id": "32WdixSfaGBYReHBLpgNtCBeUDz"
+    },
+    {
+        "thing_name": "32nDSh6PM4Mutn6K03aho42X8XL_cbmsc69et82hkntqce",
+        "device_id": "cbmsc69et82hkntqce",
+        "space_id": "32nDSh6PM4Mutn6K03aho42X8XL"
+    },
+    {
+        "thing_name": "32nhcrFpxzQlrutz2Wiwkh2dFwL_cbmzwvfvzrn763cnt9",
+        "device_id": "cbmzwvfvzrn763cnt9",
+        "space_id": "32nhcrFpxzQlrutz2Wiwkh2dFwL"
+    },
+    {
+        "thing_name": "32o7kBqeszrk31IxIUBOzt2GDwl_cbmriw2z6y4t64p55a",
+        "device_id": "cbmriw2z6y4t64p55a",
+        "space_id": "32o7kBqeszrk31IxIUBOzt2GDwl"
+    },
+    {
+        "thing_name": "32o0QUVoVKdGtaLz2EO1M7U17h3_cbm8itep586gk3gkjf",
+        "device_id": "cbm8itep586gk3gkjf",
+        "space_id": "32o0QUVoVKdGtaLz2EO1M7U17h3"
+    },
+    {
+        "thing_name": "32qDFyD3BlZFes1I4M2wjoLNJdB_cbm8wivreu2y392k86",
+        "device_id": "cbm8wivreu2y392k86",
+        "space_id": "32qDFyD3BlZFes1I4M2wjoLNJdB"
+    },
+    {
+        "thing_name": "32qjqSkviUlA3eA5XZ4blXcRbEK_cbm8eikt7mvib3xybf",
+        "device_id": "cbm8eikt7mvib3xybf",
+        "space_id": "32qjqSkviUlA3eA5XZ4blXcRbEK"
+    },
+    {
+        "thing_name": "32t6961odmz3OwUlfHrTiss2x8u_cbm3w9b5mgvdqkjhqw",
+        "device_id": "cbm3w9b5mgvdqkjhqw",
+        "space_id": "32t6961odmz3OwUlfHrTiss2x8u"
+    },
+    {
+        "thing_name": "32vvRxnOHrjeajpZCEPlKe1uMYJ_cbmig9fakz8d7j5hrd",
+        "device_id": "cbmig9fakz8d7j5hrd",
+        "space_id": "32vvRxnOHrjeajpZCEPlKe1uMYJ"
+    },
+    {
+        "thing_name": "32w8kAUe3lDA6uTxlu49zSSuBRY_cbmievjp7c5fd4zum5",
+        "device_id": "cbmievjp7c5fd4zum5",
+        "space_id": "32w8kAUe3lDA6uTxlu49zSSuBRY"
+    },
+    {
+        "thing_name": "32wfJX6t9IpkFloX4nxaE7xJ3ru_cbmp9gbprz8dk5cfyb",
+        "device_id": "cbmp9gbprz8dk5cfyb",
+        "space_id": "32wfJX6t9IpkFloX4nxaE7xJ3ru"
+    },
+    {
+        "thing_name": "32yXaFA9oawiAUdna2VPdTBbefj_cbmvikz6z2vgnpqyit",
+        "device_id": "cbmvikz6z2vgnpqyit",
+        "space_id": "32yXaFA9oawiAUdna2VPdTBbefj"
+    },
+    {
+        "thing_name": "32ykQdIUcaYsydEkxCK9AB65Lx2_cbmkvjr2zx29xekgse",
+        "device_id": "cbmkvjr2zx29xekgse",
+        "space_id": "32ykQdIUcaYsydEkxCK9AB65Lx2"
+    },
+    {
+        "thing_name": "32z8hA44FNNdRIr6qIe5s9Y0tCQ_cbmpxa5raipi55rt34",
+        "device_id": "cbmpxa5raipi55rt34",
+        "space_id": "32z8hA44FNNdRIr6qIe5s9Y0tCQ"
+    },
+    {
+        "thing_name": "32zFEQs9AnU5JCQWWzQFXUacgDi_cbm7at8upqgwffjhyf",
+        "device_id": "cbm7at8upqgwffjhyf",
+        "space_id": "32zFEQs9AnU5JCQWWzQFXUacgDi"
+    },
+    {
+        "thing_name": "334nLiLbJfbdvJnBU4mZ6AodHU1_cbmeu6r4mpa8eshv3r",
+        "device_id": "cbmeu6r4mpa8eshv3r",
+        "space_id": "334nLiLbJfbdvJnBU4mZ6AodHU1"
+    },
+    {
+        "thing_name": "334wHxWKv0iJV0yIaixTDG8S8TL_cbmbgbcgwww23vjieg",
+        "device_id": "cbmbgbcgwww23vjieg",
+        "space_id": "334wHxWKv0iJV0yIaixTDG8S8TL"
+    },
+    {
+        "thing_name": "3375xjmerdrEks1EnHDkXg9rczL_cbmk2pevs6db7fhaxv",
+        "device_id": "cbmk2pevs6db7fhaxv",
+        "space_id": "3375xjmerdrEks1EnHDkXg9rczL"
+    },
+    {
+        "thing_name": "337iF6QcaNC4vU0Y7U6lRzDtU1f_cbm35q67u4d99zyxzn",
+        "device_id": "cbm35q67u4d99zyxzn",
+        "space_id": "337iF6QcaNC4vU0Y7U6lRzDtU1f"
+    },
+    {
+        "thing_name": "339ixvY022b6VyPOJCdg8RFE0UL_cbmgsswd27mwd76f8x",
+        "device_id": "cbmgsswd27mwd76f8x",
+        "space_id": "339ixvY022b6VyPOJCdg8RFE0UL"
+    },
+    {
+        "thing_name": "339t09Cy8FcHHsFI7Vtb2696VF2_cbm9xw6qc5gcadeuze",
+        "device_id": "cbm9xw6qc5gcadeuze",
+        "space_id": "339t09Cy8FcHHsFI7Vtb2696VF2"
+    },
+    {
+        "thing_name": "33AP14Dfol2aya355lRavxG0sXP_cbm96xdhqtjhuqduub",
+        "device_id": "cbm96xdhqtjhuqduub",
+        "space_id": "33AP14Dfol2aya355lRavxG0sXP"
+    },
+    {
+        "thing_name": "33Ci7LTYODLzkWLG3sreWw2PG6T_cbmtmi9anwz7m4zsxk",
+        "device_id": "cbmtmi9anwz7m4zsxk",
+        "space_id": "33Ci7LTYODLzkWLG3sreWw2PG6T"
+    },
+    {
+        "thing_name": "33CuQdpSUfF820AXkHixIaU7KwR_cbmr8u9p36hsn44amu",
+        "device_id": "cbmr8u9p36hsn44amu",
+        "space_id": "33CuQdpSUfF820AXkHixIaU7KwR"
+    },
+    {
+        "thing_name": "32w47JRZs5jHJNtVyrGij9BooAL_cbmruu24ahz495dn33",
+        "device_id": "cbmruu24ahz495dn33",
+        "space_id": "32w47JRZs5jHJNtVyrGij9BooAL"
+    },
+    {
+        "thing_name": "33FaM5Lg1YP3OuXB5hU9FxF3jPj_cbm72v879ktei8qnm6",
+        "device_id": "cbm72v879ktei8qnm6",
+        "space_id": "33FaM5Lg1YP3OuXB5hU9FxF3jPj"
+    },
+    {
+        "thing_name": "33GOJnjLQQz2rjVKs4pGgEzDvdt_cbma76297nyq6qyrh3",
+        "device_id": "cbma76297nyq6qyrh3",
+        "space_id": "33GOJnjLQQz2rjVKs4pGgEzDvdt"
+    },
+    {
+        "thing_name": "33IC8XAu3vNf0cvpFWntsNZKGYx_cbmgwkfhggerz2dyih",
+        "device_id": "cbmgwkfhggerz2dyih",
+        "space_id": "33IC8XAu3vNf0cvpFWntsNZKGYx"
+    },
+    {
+        "thing_name": "33IdKlfBzFAiN5iK3aDOiNtsZnz_cbmk94m7kfguy4duce",
+        "device_id": "cbmk94m7kfguy4duce",
+        "space_id": "33IdKlfBzFAiN5iK3aDOiNtsZnz"
+    },
+    {
+        "thing_name": "33Iwe2As8BdQ81Lg1rQS9JvWxY3_cbmwdwjcffjukv7e2x",
+        "device_id": "cbmwdwjcffjukv7e2x",
+        "space_id": "33Iwe2As8BdQ81Lg1rQS9JvWxY3"
+    },
+    {
+        "thing_name": "33NlWDH10p6w8lRKU4w1Eylq9jE_cbmqseenzg9999yqxa",
+        "device_id": "cbmqseenzg9999yqxa",
+        "space_id": "33NlWDH10p6w8lRKU4w1Eylq9jE"
+    },
+    {
+        "thing_name": "33OD834O1bKdWnOzOCSaPybkFbE_cbmbarqyryth97mgah",
+        "device_id": "cbmbarqyryth97mgah",
+        "space_id": "33OD834O1bKdWnOzOCSaPybkFbE"
+    },
+    {
+        "thing_name": "33OcyEqx2kS8DM7X4jXc1IqCJR3_cbmnn8mhej3q8khz4y",
+        "device_id": "cbmnn8mhej3q8khz4y",
+        "space_id": "33OcyEqx2kS8DM7X4jXc1IqCJR3"
+    },
+    {
+        "thing_name": "32bzl9bEonxzMe2V4n3lZoiLBtX_cbma4j5fda6au3uag5",
+        "device_id": "cbma4j5fda6au3uag5",
+        "space_id": "32bzl9bEonxzMe2V4n3lZoiLBtX"
+    },
+    {
+        "thing_name": "33WKRhvJmH5cTzFFwdRgAfNXE8j_cbmhh942n5kcnwi97n",
+        "device_id": "cbmhh942n5kcnwi97n",
+        "space_id": "33WKRhvJmH5cTzFFwdRgAfNXE8j"
+    },
+    {
+        "thing_name": "33X3GleyW3DO6Grtsa0ZqjCISQj_cbmz9yi2f538jnu92c",
+        "device_id": "cbmz9yi2f538jnu92c",
+        "space_id": "33X3GleyW3DO6Grtsa0ZqjCISQj"
+    },
+    {
+        "thing_name": "33Zs1C7gKkRJeYW8scbduarJUB6_cbmg9pr5qvmd3u47zb",
+        "device_id": "cbmg9pr5qvmd3u47zb",
+        "space_id": "33Zs1C7gKkRJeYW8scbduarJUB6"
+    },
+    {
+        "thing_name": "33ZvpeeJwF2GtRfrOIeNlI3jJNZ_cbmsau3qqm3mbq5m5w",
+        "device_id": "cbmsau3qqm3mbq5m5w",
+        "space_id": "33ZvpeeJwF2GtRfrOIeNlI3jJNZ"
+    },
+    {
+        "thing_name": "33bgpstP9KOg7Z8eWGPREO1S02o_cbmipes2jmrpyaezig",
+        "device_id": "cbmipes2jmrpyaezig",
+        "space_id": "33bgpstP9KOg7Z8eWGPREO1S02o"
+    },
+    {
+        "thing_name": "33bp3xi8Aw04GqbWdl0wsYJuoyj_cbmifujq9cc5btk9kv",
+        "device_id": "cbmifujq9cc5btk9kv",
+        "space_id": "33bp3xi8Aw04GqbWdl0wsYJuoyj"
+    },
+    {
+        "thing_name": "33bshch5TciuuJ54c9LFj2dbugA_cbmc934kgj77tgp65h",
+        "device_id": "cbmc934kgj77tgp65h",
+        "space_id": "33bshch5TciuuJ54c9LFj2dbugA"
+    },
+    {
+        "thing_name": "33cOKz4uEI8JSSvvaAGkN51AiCZ_cbmg94i8zd6xykmku8",
+        "device_id": "cbmg94i8zd6xykmku8",
+        "space_id": "33cOKz4uEI8JSSvvaAGkN51AiCZ"
+    },
+    {
+        "thing_name": "33cXs849CKMNs0dRGT2AoyEoOgx_cbmrc3yn7exs3nk6qa",
+        "device_id": "cbmrc3yn7exs3nk6qa",
+        "space_id": "33cXs849CKMNs0dRGT2AoyEoOgx"
+    },
+    {
+        "thing_name": "31WZFpBN0tCgWMWerVcOQQsJ5eM_cbm2ipze3e4hdk3wvj",
+        "device_id": "cbm2ipze3e4hdk3wvj",
+        "space_id": "31WZFpBN0tCgWMWerVcOQQsJ5eM"
+    },
+    {
+        "thing_name": "33lAFhvxQYN5dqohnvfEGWjJxK7_cbmjrgc23zbuetz498",
+        "device_id": "cbmjrgc23zbuetz498",
+        "space_id": "33lAFhvxQYN5dqohnvfEGWjJxK7"
+    },
+    {
+        "thing_name": "33n5q5a0yPYVtlGgZyUFSwpC3eR_cbmskc75xqii3pgcsp",
+        "device_id": "cbmskc75xqii3pgcsp",
+        "space_id": "33n5q5a0yPYVtlGgZyUFSwpC3eR"
+    },
+    {
+        "thing_name": "33nEmydliS8K84xBq8Uu0yhHKfo_cbm9ra4hf4d3vqx8yu",
+        "device_id": "cbm9ra4hf4d3vqx8yu",
+        "space_id": "33nEmydliS8K84xBq8Uu0yhHKfo"
+    },
+    {
+        "thing_name": "33nVs5QyMo36FhfBhfCHLuhqgn8_cbm5g867pcq2ginjbt",
+        "device_id": "cbm5g867pcq2ginjbt",
+        "space_id": "33nVs5QyMo36FhfBhfCHLuhqgn8"
+    },
+    {
+        "thing_name": "33killeGTEZ2sqJlN4LmIGgrDZ1_cbmq8mih8p66mkhfsn",
+        "device_id": "cbmq8mih8p66mkhfsn",
+        "space_id": "33killeGTEZ2sqJlN4LmIGgrDZ1"
+    },
+    {
+        "thing_name": "33o4p0SdqNnQ40ERSucUObwSY8a_cbmwkvxp9a79hat838",
+        "device_id": "cbmwkvxp9a79hat838",
+        "space_id": "33o4p0SdqNnQ40ERSucUObwSY8a"
+    },
+    {
+        "thing_name": "33pq6cPDo8wm9E7nrTm2FFba1zl_cbmiygjyr2xzhqgcvf",
+        "device_id": "cbmiygjyr2xzhqgcvf",
+        "space_id": "33pq6cPDo8wm9E7nrTm2FFba1zl"
+    },
+    {
+        "thing_name": "33qdskH2ChueCJU2BRTU4W135a1_cbm5c9ccbhbkrczsz5",
+        "device_id": "cbm5c9ccbhbkrczsz5",
+        "space_id": "33qdskH2ChueCJU2BRTU4W135a1"
+    },
+    {
+        "thing_name": "33qYHE7ebSRhya1uIK6wkr2jJW7_cbm2596qaim6jvu6bg",
+        "device_id": "cbm2596qaim6jvu6bg",
+        "space_id": "33qYHE7ebSRhya1uIK6wkr2jJW7"
+    },
+    {
+        "thing_name": "33qnzZGHUazCvHZXgcmIsf8n8ST_cbmdsbsge56f8dw5ug",
+        "device_id": "cbmdsbsge56f8dw5ug",
+        "space_id": "33qnzZGHUazCvHZXgcmIsf8n8ST"
+    },
+    {
+        "thing_name": "33qtv4RwkoQZhTCTLJ9qZh9FQnK_cbmwa5ey96bn8tvjb4",
+        "device_id": "cbmwa5ey96bn8tvjb4",
+        "space_id": "33qtv4RwkoQZhTCTLJ9qZh9FQnK"
+    },
+    {
+        "thing_name": "33nqzhTKMuTGNZA8tKVgCM2MJYI_cbmcs3fakxd2mrjnqz",
+        "device_id": "cbmcs3fakxd2mrjnqz",
+        "space_id": "33nqzhTKMuTGNZA8tKVgCM2MJYI"
+    },
+    {
+        "thing_name": "33su9WMinsiyi6UB8u9SizUmsQK_cbmmppk36rbujfkvgj",
+        "device_id": "cbmmppk36rbujfkvgj",
+        "space_id": "33su9WMinsiyi6UB8u9SizUmsQK"
+    },
+    {
+        "thing_name": "33tckljfnUbGeWBBzKdJiMZx1E2_cbmkc9v6na5xja9ybe",
+        "device_id": "cbmkc9v6na5xja9ybe",
+        "space_id": "33tckljfnUbGeWBBzKdJiMZx1E2"
+    },
+    {
+        "thing_name": "33wd0Lc5OVeOjmPtDLu1DBeB4sY_cbm5j7w2uihj839amc",
+        "device_id": "cbm5j7w2uihj839amc",
+        "space_id": "33wd0Lc5OVeOjmPtDLu1DBeB4sY"
+    },
+    {
+        "thing_name": "33yg0LnJa8OTt2XmXdTtwhEsg1m_cbmcxw6ecdc9mjf4is",
+        "device_id": "cbmcxw6ecdc9mjf4is",
+        "space_id": "33yg0LnJa8OTt2XmXdTtwhEsg1m"
+    },
+    {
+        "thing_name": "341M3YDgNzAo9oU43NACePIrvyO_cbmvgytwy397dgrksj",
+        "device_id": "cbmvgytwy397dgrksj",
+        "space_id": "341M3YDgNzAo9oU43NACePIrvyO"
+    },
+    {
+        "thing_name": "341YqtTs6iowP2qJLZx6pDelihC_cbmf4qghzsmvjmdsq4",
+        "device_id": "cbmf4qghzsmvjmdsq4",
+        "space_id": "341YqtTs6iowP2qJLZx6pDelihC"
+    },
+    {
+        "thing_name": "341rhR0mqN5mNlKHMqCAyZ6jtw4_cbm6ebtw6u2yxeswz7",
+        "device_id": "cbm6ebtw6u2yxeswz7",
+        "space_id": "341rhR0mqN5mNlKHMqCAyZ6jtw4"
+    },
+    {
+        "thing_name": "341ywaDrV6g6E6ikLrxCHZUdiDU_cbmjx445vzbedss3t7",
+        "device_id": "cbmjx445vzbedss3t7",
+        "space_id": "341ywaDrV6g6E6ikLrxCHZUdiDU"
+    },
+    {
+        "thing_name": "342CpZUTwKjOyp2yQZidAn8ftpO_cbmau2crz8jijmpa8g",
+        "device_id": "cbmau2crz8jijmpa8g",
+        "space_id": "342CpZUTwKjOyp2yQZidAn8ftpO"
+    },
+    {
+        "thing_name": "342NczWvzYIG6YTQNvRE5we0U1r_cbm2sybjx3wpzt82p8",
+        "device_id": "cbm2sybjx3wpzt82p8",
+        "space_id": "342NczWvzYIG6YTQNvRE5we0U1r"
+    },
+    {
+        "thing_name": "3445AohIWNirKsLWdxJ6KVgyuK6_cbmkrvnfc79nf5zzy7",
+        "device_id": "cbmkrvnfc79nf5zzy7",
+        "space_id": "3445AohIWNirKsLWdxJ6KVgyuK6"
+    },
+    {
+        "thing_name": "344RkpdyzvC8n6Dw9uFvGBjZaoI_cbmktywyy8zafhxg7z",
+        "device_id": "cbmktywyy8zafhxg7z",
+        "space_id": "344RkpdyzvC8n6Dw9uFvGBjZaoI"
+    },
+    {
+        "thing_name": "344U6JA9nTxaGemIblsQY8jbnWA_cbm9xfg25q72qak7gy",
+        "device_id": "cbm9xfg25q72qak7gy",
+        "space_id": "344U6JA9nTxaGemIblsQY8jbnWA"
+    },
+    {
+        "thing_name": "344gFanpdiQ3EFXWgOyDnSsqoD6_cbmmvz3v69nc7f828z",
+        "device_id": "cbmmvz3v69nc7f828z",
+        "space_id": "344gFanpdiQ3EFXWgOyDnSsqoD6"
+    },
+    {
+        "thing_name": "3450CDEzLOTwjIV8dtUu1VuPrz5_cbmudmqj6ebwx6exrv",
+        "device_id": "cbmudmqj6ebwx6exrv",
+        "space_id": "3450CDEzLOTwjIV8dtUu1VuPrz5"
+    },
+    {
+        "thing_name": "344y0qhXfUKRWRI5bLCLcNi8kN0_cbm7kwvqm2tchiuzfk",
+        "device_id": "cbm7kwvqm2tchiuzfk",
+        "space_id": "344y0qhXfUKRWRI5bLCLcNi8kN0"
+    },
+    {
+        "thing_name": "345CBD4I2TcYClWYqCNEoFC4p1J_cbmf65w8hyq22n7ifi",
+        "device_id": "cbmf65w8hyq22n7ifi",
+        "space_id": "345CBD4I2TcYClWYqCNEoFC4p1J"
+    },
+    {
+        "thing_name": "346hz8DFAEQsiyzRAmTyQDO5aZQ_cbmvxszpi963mj5hki",
+        "device_id": "cbmvxszpi963mj5hki",
+        "space_id": "346hz8DFAEQsiyzRAmTyQDO5aZQ"
+    },
+    {
+        "thing_name": "347cwKdimDKdk0Dm7JlrOuUKwtJ_cbmepyhks563zy2eu7",
+        "device_id": "cbmepyhks563zy2eu7",
+        "space_id": "347cwKdimDKdk0Dm7JlrOuUKwtJ"
+    },
+    {
+        "thing_name": "347yX7d0mf7syAWI5ZUXSksuobf_cbm9utnx2a3q72kitd",
+        "device_id": "cbm9utnx2a3q72kitd",
+        "space_id": "347yX7d0mf7syAWI5ZUXSksuobf"
+    },
+    {
+        "thing_name": "349iW3SzfnLCtVuQIx4uCnvL7Fp_cbm7dy3yuhryfu7qq9",
+        "device_id": "cbm7dy3yuhryfu7qq9",
+        "space_id": "349iW3SzfnLCtVuQIx4uCnvL7Fp"
+    },
+    {
+        "thing_name": "34A3Wz1u4wOpIQKCKi2W6JuKbzx_cbmqdzfgwxwyxbdxaa",
+        "device_id": "cbmqdzfgwxwyxbdxaa",
+        "space_id": "34A3Wz1u4wOpIQKCKi2W6JuKbzx"
+    },
+    {
+        "thing_name": "34AKTTXy27PS3ISRCYZHEZhWVQo_cbmptk9i95774dkh9i",
+        "device_id": "cbmptk9i95774dkh9i",
+        "space_id": "34AKTTXy27PS3ISRCYZHEZhWVQo"
+    },
+    {
+        "thing_name": "34CWULXyf65raPmtzSmamUOXeWt_cbmc3rvycxgwkdxppy",
+        "device_id": "cbmc3rvycxgwkdxppy",
+        "space_id": "34CWULXyf65raPmtzSmamUOXeWt"
+    },
+    {
+        "thing_name": "34Cbj1oxUMek2KbhyIbLYBILfLi_cbmnnmk8ktcksz7p53",
+        "device_id": "cbmnnmk8ktcksz7p53",
+        "space_id": "34Cbj1oxUMek2KbhyIbLYBILfLi"
+    },
+    {
+        "thing_name": "34CW7cFZdnNtceBuO4oSnWTw04G_cbmpsc5276ckf5ag5t",
+        "device_id": "cbmpsc5276ckf5ag5t",
+        "space_id": "34CW7cFZdnNtceBuO4oSnWTw04G"
+    },
+    {
+        "thing_name": "34DANa0prnyCNz6JRrzbJ85fntI_cbmx5nhbw7anrsfi2d",
+        "device_id": "cbmx5nhbw7anrsfi2d",
+        "space_id": "34DANa0prnyCNz6JRrzbJ85fntI"
+    },
+    {
+        "thing_name": "34DGQWrmg4HSycP8WOuCNwwPWnT_cbmwdbk9e7hmueqwgg",
+        "device_id": "cbmwdbk9e7hmueqwgg",
+        "space_id": "34DGQWrmg4HSycP8WOuCNwwPWnT"
+    },
+    {
+        "thing_name": "34DSMtSniTOrLkjPyWGHwKiUAzj_cbm82vqfty6a4gz33v",
+        "device_id": "cbm82vqfty6a4gz33v",
+        "space_id": "34DSMtSniTOrLkjPyWGHwKiUAzj"
+    },
+    {
+        "thing_name": "34DHGuQLkp4w3Enl54f9MV4b1gr_cbmx6hf5tk68zy2p9s",
+        "device_id": "cbmx6hf5tk68zy2p9s",
+        "space_id": "34DHGuQLkp4w3Enl54f9MV4b1gr"
+    },
+    {
+        "thing_name": "34FGSyc6rvASSgGC9OduOUnUfE8_cbmjtv7ifunbvbrf54",
+        "device_id": "cbmjtv7ifunbvbrf54",
+        "space_id": "34FGSyc6rvASSgGC9OduOUnUfE8"
+    },
+    {
+        "thing_name": "34FqjfuzEey5S7OCuNiEPySVYQ9_cbmra7fc2g7dhmztgn",
+        "device_id": "cbmra7fc2g7dhmztgn",
+        "space_id": "34FqjfuzEey5S7OCuNiEPySVYQ9"
+    },
+    {
+        "thing_name": "34KtdbvYGkqDajW8gFoLQUA7hWg_cbm3jvimzizw9uzvt8",
+        "device_id": "cbm3jvimzizw9uzvt8",
+        "space_id": "34KtdbvYGkqDajW8gFoLQUA7hWg"
+    },
+    {
+        "thing_name": "34L5yKoJBqCrQpMInmcWcDQPvs2_cbmmcq4jyptg5wprmy",
+        "device_id": "cbmmcq4jyptg5wprmy",
+        "space_id": "34L5yKoJBqCrQpMInmcWcDQPvs2"
+    },
+    {
+        "thing_name": "34LSKIOjMmi0hG9pqb50NzvS7w1_cbmpzd22iwqdex887y",
+        "device_id": "cbmpzd22iwqdex887y",
+        "space_id": "34LSKIOjMmi0hG9pqb50NzvS7w1"
+    },
+    {
+        "thing_name": "34Llw3EyMQMW7Tq18nzAsRUnblp_cbm2wvp5p4bjzddtbq",
+        "device_id": "cbm2wvp5p4bjzddtbq",
+        "space_id": "34Llw3EyMQMW7Tq18nzAsRUnblp"
+    },
+    {
+        "thing_name": "34NpK49xYIicMNrW78VhbDRilQV_cbm3k7cmxcxvkq42ze",
+        "device_id": "cbm3k7cmxcxvkq42ze",
+        "space_id": "34NpK49xYIicMNrW78VhbDRilQV"
+    },
+    {
+        "thing_name": "34NqlnGEXIWzHeRXXUXKrFRpATX_cbmir4gaqx2v7cnx8b",
+        "device_id": "cbmir4gaqx2v7cnx8b",
+        "space_id": "34NqlnGEXIWzHeRXXUXKrFRpATX"
+    },
+    {
+        "thing_name": "34O4upElige7et35ZCZkHoLimAG_cbmkiqht3tt2m38rys",
+        "device_id": "cbmkiqht3tt2m38rys",
+        "space_id": "34O4upElige7et35ZCZkHoLimAG"
+    },
+    {
+        "thing_name": "34QXvCC1CVpWJjdVYK2wzjbLwrG_cbmafjkj3d672rr7bj",
+        "device_id": "cbmafjkj3d672rr7bj",
+        "space_id": "34QXvCC1CVpWJjdVYK2wzjbLwrG"
+    },
+    {
+        "thing_name": "34QjROmBQXZWXzqYoFHgXAVGc7K_cbmdirkkt26iuviugk",
+        "device_id": "cbmdirkkt26iuviugk",
+        "space_id": "34QjROmBQXZWXzqYoFHgXAVGc7K"
+    },
+    {
+        "thing_name": "34Qn1jEtzBYjdAIQNO8Zyc07YZR_cbmxp8amxgqr983f5t",
+        "device_id": "cbmxp8amxgqr983f5t",
+        "space_id": "34Qn1jEtzBYjdAIQNO8Zyc07YZR"
+    },
+    {
+        "thing_name": "34Qu1ClTTsKtSnuRxACni7HvFf6_cbm49m9aj8mtrpwive",
+        "device_id": "cbm49m9aj8mtrpwive",
+        "space_id": "34Qu1ClTTsKtSnuRxACni7HvFf6"
+    },
+    {
+        "thing_name": "34R38qbCygPAOE1gn5dwJFAhuiE_cbmx6vheby56cv5rk8",
+        "device_id": "cbmx6vheby56cv5rk8",
+        "space_id": "34R38qbCygPAOE1gn5dwJFAhuiE"
+    },
+    {
+        "thing_name": "34R5p7aP5efCeiOXWoaKftlaUmq_cbmsej2yyj5wsgttm2",
+        "device_id": "cbmsej2yyj5wsgttm2",
+        "space_id": "34R5p7aP5efCeiOXWoaKftlaUmq"
+    },
+    {
+        "thing_name": "34Ree2kfKhliYkPOQ0neXHWnIsB_cbmgimzpixtfzu8wsv",
+        "device_id": "cbmgimzpixtfzu8wsv",
+        "space_id": "34Ree2kfKhliYkPOQ0neXHWnIsB"
+    },
+    {
+        "thing_name": "34TOrOcRacxQXhjOIqYSmzN9D4W_cbmctisvb6scavpaxq",
+        "device_id": "cbmctisvb6scavpaxq",
+        "space_id": "34TOrOcRacxQXhjOIqYSmzN9D4W"
+    },
+    {
+        "thing_name": "34TdF913Cfu7jbFg5h5NINhFdhT_cbmvzrwrfjapxvimu8",
+        "device_id": "cbmvzrwrfjapxvimu8",
+        "space_id": "34TdF913Cfu7jbFg5h5NINhFdhT"
+    },
+    {
+        "thing_name": "34UBMb1KxQKGOkG8hATq1mVX3ro_cbmyyh48fgfn88pt76",
+        "device_id": "cbmyyh48fgfn88pt76",
+        "space_id": "34UBMb1KxQKGOkG8hATq1mVX3ro"
+    },
+    {
+        "thing_name": "34UGxhSpnQjjSuLyNzjio5LDb1k_cbmed7arrm8n3brs3a",
+        "device_id": "cbmed7arrm8n3brs3a",
+        "space_id": "34UGxhSpnQjjSuLyNzjio5LDb1k"
+    },
+    {
+        "thing_name": "34UPGIW2JbFrnaovjp6aSKkixR8_cbm9gexwim3ptb486e",
+        "device_id": "cbm9gexwim3ptb486e",
+        "space_id": "34UPGIW2JbFrnaovjp6aSKkixR8"
+    },
+    {
+        "thing_name": "33ZYAK7eQvXAJVKuUsDeGCaKJad_cbmzdh9izjfp4nynaz",
+        "device_id": "cbmzdh9izjfp4nynaz",
+        "space_id": "33ZYAK7eQvXAJVKuUsDeGCaKJad"
+    },
+    {
+        "thing_name": "34WWqjWpwoYgCKMLg7RUeJHLaee_cbmsp8nu8vc2hqhzft",
+        "device_id": "cbmsp8nu8vc2hqhzft",
+        "space_id": "34WWqjWpwoYgCKMLg7RUeJHLaee"
+    },
+    {
+        "thing_name": "34Wc8JlpdDR27AvU4qcoVLm6eMW_cbm5zd2daumj34pepw",
+        "device_id": "cbm5zd2daumj34pepw",
+        "space_id": "34Wc8JlpdDR27AvU4qcoVLm6eMW"
+    },
+    {
+        "thing_name": "34Wjic9d1jxIWr3lvvoLn7Q1vc9_cbm4xmgg9bvyq6jrmp",
+        "device_id": "cbm4xmgg9bvyq6jrmp",
+        "space_id": "34Wjic9d1jxIWr3lvvoLn7Q1vc9"
+    },
+    {
+        "thing_name": "34X9UxkmiRK6I6iuLJbLkUaXHIg_cbma25etx2rh6ym7f2",
+        "device_id": "cbma25etx2rh6ym7f2",
+        "space_id": "34X9UxkmiRK6I6iuLJbLkUaXHIg"
+    },
+    {
+        "thing_name": "34ZE9V58bWFz7lXV0GcDETCGxnU_cbmmgsbyavvcxhf88y",
+        "device_id": "cbmmgsbyavvcxhf88y",
+        "space_id": "34ZE9V58bWFz7lXV0GcDETCGxnU"
+    },
+    {
+        "thing_name": "34ZbsT0JVMjGMSsUN4gEYSr2zVH_cbmyfarv7yvjyiz5fv",
+        "device_id": "cbmyfarv7yvjyiz5fv",
+        "space_id": "34ZbsT0JVMjGMSsUN4gEYSr2zVH"
+    },
+    {
+        "thing_name": "34a4eW91hLAoUWDKagNnAmAI9IL_cbmgvhx9ic9xb3tpkf",
+        "device_id": "cbmgvhx9ic9xb3tpkf",
+        "space_id": "34a4eW91hLAoUWDKagNnAmAI9IL"
+    },
+    {
+        "thing_name": "34elM4QJrdlM9HgWRaYefsX7CmL_cbmtuqw65j3n6xaj8e",
+        "device_id": "cbmtuqw65j3n6xaj8e",
+        "space_id": "34elM4QJrdlM9HgWRaYefsX7CmL"
+    },
+    {
+        "thing_name": "34fTZiQmis0oImF7mfOwFvKlCze_cbmpskv4ybdthtmwxk",
+        "device_id": "cbmpskv4ybdthtmwxk",
+        "space_id": "34fTZiQmis0oImF7mfOwFvKlCze"
+    },
+    {
+        "thing_name": "34fXvyD1tHgtlWkUT8kC0p0Q4SR_cbm8hjurzqt6qdizxf",
+        "device_id": "cbm8hjurzqt6qdizxf",
+        "space_id": "34fXvyD1tHgtlWkUT8kC0p0Q4SR"
+    },
+    {
+        "thing_name": "34fcBX9M3UiZUA81ZFMfkcrtjTI_cbmucfcgze7nmtwnvu",
+        "device_id": "cbmucfcgze7nmtwnvu",
+        "space_id": "34fcBX9M3UiZUA81ZFMfkcrtjTI"
+    },
+    {
+        "thing_name": "34iSbGjcM3jrkKQtmNQPwo76kDX_cbm39jpn2tu3rsxbjs",
+        "device_id": "cbm39jpn2tu3rsxbjs",
+        "space_id": "34iSbGjcM3jrkKQtmNQPwo76kDX"
+    },
+    {
+        "thing_name": "34iftZKLrjUbvMfugwpqsybFBYa_cbmk7vz6dt6s5eff96",
+        "device_id": "cbmk7vz6dt6s5eff96",
+        "space_id": "34iftZKLrjUbvMfugwpqsybFBYa"
+    },
+    {
+        "thing_name": "34kb5wWIJSJrutu8wNkTlaTmwMX_cbmywcbcxzjvm3vaqe",
+        "device_id": "cbmywcbcxzjvm3vaqe",
+        "space_id": "34kb5wWIJSJrutu8wNkTlaTmwMX"
+    },
+    {
+        "thing_name": "34oHpAZi2K9zCfTZtEf0EZJhGIx_cbmn9qd6zbjt3fkr8j",
+        "device_id": "cbmn9qd6zbjt3fkr8j",
+        "space_id": "34oHpAZi2K9zCfTZtEf0EZJhGIx"
+    },
+    {
+        "thing_name": "34symWRqrun6qTWLXz74lr8mj09_cbmf63mcwrwf32wc54",
+        "device_id": "cbmf63mcwrwf32wc54",
+        "space_id": "34symWRqrun6qTWLXz74lr8mj09"
+    },
+    {
+        "thing_name": "34tFJcleHFuQ9vdaL1C8ZThmfB6_cbm6in63jry2xeie75",
+        "device_id": "cbm6in63jry2xeie75",
+        "space_id": "34tFJcleHFuQ9vdaL1C8ZThmfB6"
+    },
+    {
+        "thing_name": "33kV7dEZwxZZrHddqgkEWEfluQs_cbm4pea6wwppqjnaju",
+        "device_id": "cbm4pea6wwppqjnaju",
+        "space_id": "33kV7dEZwxZZrHddqgkEWEfluQs"
+    },
+    {
+        "thing_name": "351nFgiZmtrze8OVO2w8dC4iRp7_cbmht7iyqbse5gps3y",
+        "device_id": "cbmht7iyqbse5gps3y",
+        "space_id": "351nFgiZmtrze8OVO2w8dC4iRp7"
+    },
+    {
+        "thing_name": "352BxSuMTEI6jtjHEFvifDvbWh7_cbm22pdkp244927gep",
+        "device_id": "cbm22pdkp244927gep",
+        "space_id": "352BxSuMTEI6jtjHEFvifDvbWh7"
+    },
+    {
+        "thing_name": "355OpuRu2UCUSe8gd04uig5xB4t_cbmzeekb5ux73jdwjz",
+        "device_id": "cbmzeekb5ux73jdwjz",
+        "space_id": "355OpuRu2UCUSe8gd04uig5xB4t"
+    },
+    {
+        "thing_name": "35AKoITQtunAfeHx09eSNyNxX3s_cbmzyrsssr3qmbvgv5",
+        "device_id": "cbmzyrsssr3qmbvgv5",
+        "space_id": "35AKoITQtunAfeHx09eSNyNxX3s"
+    },
+    {
+        "thing_name": "35B5s1jOYsEbT6JfjPBfKhougID_cbms2ytznkxdbht8qa",
+        "device_id": "cbms2ytznkxdbht8qa",
+        "space_id": "35B5s1jOYsEbT6JfjPBfKhougID"
+    },
+    {
+        "thing_name": "35D4s9tGLExB21XNoQBgT7bL3v2_cbm4em87a3zpmb7ypp",
+        "device_id": "cbm4em87a3zpmb7ypp",
+        "space_id": "35D4s9tGLExB21XNoQBgT7bL3v2"
+    },
+    {
+        "thing_name": "35DgTgGnAP99T9QSuplcVkOd4OC_cbmjdnubyt98gbeddb",
+        "device_id": "cbmjdnubyt98gbeddb",
+        "space_id": "35DgTgGnAP99T9QSuplcVkOd4OC"
+    },
+    {
+        "thing_name": "35GArqaxdUCTOPs7yg50v38XHWi_cbmxyinnmpm8qc5rbi",
+        "device_id": "cbmxyinnmpm8qc5rbi",
+        "space_id": "35GArqaxdUCTOPs7yg50v38XHWi"
+    },
+    {
+        "thing_name": "35IKC3yCWY9sr9yMqLVNoxLPO8f_cbmcnkv5i878wb5qyt",
+        "device_id": "cbmcnkv5i878wb5qyt",
+        "space_id": "35IKC3yCWY9sr9yMqLVNoxLPO8f"
+    },
+    {
+        "thing_name": "35LJgyampjhTsVfl8HKIgv6LGf2_cbmam49g5stqffg3bj",
+        "device_id": "cbmam49g5stqffg3bj",
+        "space_id": "35LJgyampjhTsVfl8HKIgv6LGf2"
+    },
+    {
+        "thing_name": "35LnRKi9vVmvi9kci7sWtsrvpj8_cbmxg5n8jhx8s3svgt",
+        "device_id": "cbmxg5n8jhx8s3svgt",
+        "space_id": "35LnRKi9vVmvi9kci7sWtsrvpj8"
+    },
+    {
+        "thing_name": "35JENAwt4vj2UEoquLIwoKZ3NU2_cbm9reg5rtmyk73r5p",
+        "device_id": "cbm9reg5rtmyk73r5p",
+        "space_id": "35JENAwt4vj2UEoquLIwoKZ3NU2"
+    },
+    {
+        "thing_name": "35O401lDmapenleQHhga9qqe3iy_cbme7rjs3s87efzv8e",
+        "device_id": "cbme7rjs3s87efzv8e",
+        "space_id": "35O401lDmapenleQHhga9qqe3iy"
+    },
+    {
+        "thing_name": "35OGSMmQTTEGeplbL3N6mtcoQQx_cbm5skbtmvpv6rmna5",
+        "device_id": "cbm5skbtmvpv6rmna5",
+        "space_id": "35OGSMmQTTEGeplbL3N6mtcoQQx"
+    },
+    {
+        "thing_name": "35ONW4vL2RjgxryGdW0F67Y7aJS_cbm22gxdpw9jnsinpn",
+        "device_id": "cbm22gxdpw9jnsinpn",
+        "space_id": "35ONW4vL2RjgxryGdW0F67Y7aJS"
+    },
+    {
+        "thing_name": "35Op6ybr6aq8DTxqa5V82Fim2Pn_cbmp2mz9yqxbv6esm2",
+        "device_id": "cbmp2mz9yqxbv6esm2",
+        "space_id": "35Op6ybr6aq8DTxqa5V82Fim2Pn"
+    },
+    {
+        "thing_name": "35OrsftSsKme69ih6uz3GyeCAVp_cbmututab8v48nmyc7",
+        "device_id": "cbmututab8v48nmyc7",
+        "space_id": "35OrsftSsKme69ih6uz3GyeCAVp"
+    },
+    {
+        "thing_name": "35QqIrM8RP06xKu6PcTmi5gBgZ1_cbm6isr4amzg5wsydn",
+        "device_id": "cbm6isr4amzg5wsydn",
+        "space_id": "35QqIrM8RP06xKu6PcTmi5gBgZ1"
+    },
+    {
+        "thing_name": "35RIATVOB5iMSUXivAti9ChoXx7_cbmzw39idrs2p5g53j",
+        "device_id": "cbmzw39idrs2p5g53j",
+        "space_id": "35RIATVOB5iMSUXivAti9ChoXx7"
+    },
+    {
+        "thing_name": "35RiGmRRac0sN5lzwP4d8F4jaUX_cbmtixdx7zjztxqweu",
+        "device_id": "cbmtixdx7zjztxqweu",
+        "space_id": "35RiGmRRac0sN5lzwP4d8F4jaUX"
+    },
+    {
+        "thing_name": "35RpPk2heymHGAagRL6whAYAu1k_cbm58q99cb4mzh5e3u",
+        "device_id": "cbm58q99cb4mzh5e3u",
+        "space_id": "35RpPk2heymHGAagRL6whAYAu1k"
+    },
+    {
+        "thing_name": "35RkFYq1GF4IM6MG28KHIdC3wxc_cbmdmv47x8y3xeszai",
+        "device_id": "cbmdmv47x8y3xeszai",
+        "space_id": "35RkFYq1GF4IM6MG28KHIdC3wxc"
+    },
+    {
+        "thing_name": "34unz3sse3B5OSxQJ9WbQHKIPxr_cbm5685aevbdf6jsvi",
+        "device_id": "cbm5685aevbdf6jsvi",
+        "space_id": "34unz3sse3B5OSxQJ9WbQHKIPxr"
+    },
+    {
+        "thing_name": "35U75DOSFvNK9DnyNlw2GumNzGW_cbm2237d9bmdi2dm9g",
+        "device_id": "cbm2237d9bmdi2dm9g",
+        "space_id": "35U75DOSFvNK9DnyNlw2GumNzGW"
+    },
+    {
+        "thing_name": "35UBqmoOi7TMVpT4hRPyoFGDtwT_cbmm7rxgqx6wvg3s5x",
+        "device_id": "cbmm7rxgqx6wvg3s5x",
+        "space_id": "35UBqmoOi7TMVpT4hRPyoFGDtwT"
+    },
+    {
+        "thing_name": "35UQ9ujHchhupbpX4jD5awI5ZGU_cbmfp5tb2w4auzv5sq",
+        "device_id": "cbmfp5tb2w4auzv5sq",
+        "space_id": "35UQ9ujHchhupbpX4jD5awI5ZGU"
+    },
+    {
+        "thing_name": "35Wb7nLR8QJ6y0pNfH4Osmw37sB_cbmst7t4fuzmcxw2pa",
+        "device_id": "cbmst7t4fuzmcxw2pa",
+        "space_id": "35Wb7nLR8QJ6y0pNfH4Osmw37sB"
+    },
+    {
+        "thing_name": "35X6Ub9zotS6TURAlPdmOR2aUiH_cbmmzxtx5v2cneqbyx",
+        "device_id": "cbmmzxtx5v2cneqbyx",
+        "space_id": "35X6Ub9zotS6TURAlPdmOR2aUiH"
+    },
+    {
+        "thing_name": "35XbGslsn7nEu81D4YnSwMRRCFh_cbmj3gaup4s685htm2",
+        "device_id": "cbmj3gaup4s685htm2",
+        "space_id": "35XbGslsn7nEu81D4YnSwMRRCFh"
+    },
+    {
+        "thing_name": "35c49985U8juk4Y8zhkvIloI4zt_cbmzucvec39u7khekc",
+        "device_id": "cbmzucvec39u7khekc",
+        "space_id": "35c49985U8juk4Y8zhkvIloI4zt"
+    },
+    {
+        "thing_name": "35ffLbJA7Fo7Retz4Mk15FGZHDk_cbmc7exsm7fwijtpu9",
+        "device_id": "cbmc7exsm7fwijtpu9",
+        "space_id": "35ffLbJA7Fo7Retz4Mk15FGZHDk"
+    },
+    {
+        "thing_name": "35fsmsVymDJ6hEJ3iX3XbE8NpcP_cbmcecy828svss9fmq",
+        "device_id": "cbmcecy828svss9fmq",
+        "space_id": "35fsmsVymDJ6hEJ3iX3XbE8NpcP"
+    },
+    {
+        "thing_name": "35iMnuxLeI03ZqbJkhaQbdkhAct_cbmjg72y83z42ucq83",
+        "device_id": "cbmjg72y83z42ucq83",
+        "space_id": "35iMnuxLeI03ZqbJkhaQbdkhAct"
+    },
+    {
+        "thing_name": "35iWwtqygHLyuidQvSVekjFlEa6_cbmh65az8xf3zhmh5h",
+        "device_id": "cbmh65az8xf3zhmh5h",
+        "space_id": "35iWwtqygHLyuidQvSVekjFlEa6"
+    },
+    {
+        "thing_name": "35iekd0P4NMJSRg31igVmjP7pJZ_cbmat9nvrrjpg4imfz",
+        "device_id": "cbmat9nvrrjpg4imfz",
+        "space_id": "35iekd0P4NMJSRg31igVmjP7pJZ"
+    },
+    {
+        "thing_name": "35o3TROodV3tIZXMWupsV1vBkxv_cbm87pkgd9fb7ypvqm",
+        "device_id": "cbm87pkgd9fb7ypvqm",
+        "space_id": "35o3TROodV3tIZXMWupsV1vBkxv"
+    },
+    {
+        "thing_name": "35z7EafFx9VPTbwP2Q2XXubxx8M_cbm6xp6akj3rpnqcnp",
+        "device_id": "cbm6xp6akj3rpnqcnp",
+        "space_id": "35z7EafFx9VPTbwP2Q2XXubxx8M"
+    },
+    {
+        "thing_name": "361o9z6AQDPWdPo1atCVTCmCH14_cbmsu9ks3cwuinuzxn",
+        "device_id": "cbmsu9ks3cwuinuzxn",
+        "space_id": "361o9z6AQDPWdPo1atCVTCmCH14"
+    },
+    {
+        "thing_name": "3623DdHmxq3yFDhNJSKsDjjvgH0_cbmtq6as29bcrs7zf9",
+        "device_id": "cbmtq6as29bcrs7zf9",
+        "space_id": "3623DdHmxq3yFDhNJSKsDjjvgH0"
+    },
+    {
+        "thing_name": "35tvnCqwtOjgJ0Bm9mEEcfnoyxu_cbm545vh4yi78kyk24",
+        "device_id": "cbm545vh4yi78kyk24",
+        "space_id": "35tvnCqwtOjgJ0Bm9mEEcfnoyxu"
+    },
+    {
+        "thing_name": "36DfAeEvdRKwJbkzmY3kJRF8b01_cbman2mrcthq5yi445",
+        "device_id": "cbman2mrcthq5yi445",
+        "space_id": "36DfAeEvdRKwJbkzmY3kJRF8b01"
+    },
+    {
+        "thing_name": "36J8JQOssxdpxRKluhsQq9tfxng_cbmfsx8m29dehgr54a",
+        "device_id": "cbmfsx8m29dehgr54a",
+        "space_id": "36J8JQOssxdpxRKluhsQq9tfxng"
+    },
+    {
+        "thing_name": "36OFwCB4wSAR3mjFQbw0qH1OjxQ_cbmh9wzd9y8px3wtmi",
+        "device_id": "cbmh9wzd9y8px3wtmi",
+        "space_id": "36OFwCB4wSAR3mjFQbw0qH1OjxQ"
+    },
+    {
+        "thing_name": "36J5l1QWir9b5CJcpmf3cr0z19E_cbmx7zztp9jqm6ccdw",
+        "device_id": "cbmx7zztp9jqm6ccdw",
+        "space_id": "36J5l1QWir9b5CJcpmf3cr0z19E"
+    },
+    {
+        "thing_name": "36Tv1BiNm1XYiBaIUbRvitKrjUG_cbm3hcfwtx5txcjixi",
+        "device_id": "cbm3hcfwtx5txcjixi",
+        "space_id": "36Tv1BiNm1XYiBaIUbRvitKrjUG"
+    },
+    {
+        "thing_name": "36aLbdfM7jVyxtvYscVEJawdYPr_cbmaqxgmb5g7pv7ugc",
+        "device_id": "cbmaqxgmb5g7pv7ugc",
+        "space_id": "36aLbdfM7jVyxtvYscVEJawdYPr"
+    },
+    {
+        "thing_name": "36dLhp9u2lN72IWuDtu8pHuwDNa_cbmz2qhkmdrdgguucn",
+        "device_id": "cbmz2qhkmdrdgguucn",
+        "space_id": "36dLhp9u2lN72IWuDtu8pHuwDNa"
+    },
+    {
+        "thing_name": "36i1jS82dTfhQRM95zpkHysogYY_cbmrs22bk7cgsb4wk5",
+        "device_id": "cbmrs22bk7cgsb4wk5",
+        "space_id": "36i1jS82dTfhQRM95zpkHysogYY"
+    },
+    {
+        "thing_name": "351tIQKQmAuob0yt0r3mfDtsOip_cbmi57mpz4hhxvjx2j",
+        "device_id": "cbmi57mpz4hhxvjx2j",
+        "space_id": "351tIQKQmAuob0yt0r3mfDtsOip"
+    },
+    {
+        "thing_name": "36iVzkZyOdIS9gWNj529WNYzqV7_cbmi58t2n3feu8rf6f",
+        "device_id": "cbmi58t2n3feu8rf6f",
+        "space_id": "36iVzkZyOdIS9gWNj529WNYzqV7"
+    },
+    {
+        "thing_name": "36l65Tu6frfiMj1NRG0w58J2VWI_cbmc7rx6hwnez37x7e",
+        "device_id": "cbmc7rx6hwnez37x7e",
+        "space_id": "36l65Tu6frfiMj1NRG0w58J2VWI"
+    },
+    {
+        "thing_name": "36efedMlR0gp2j6v2gVXJ2KsCuI_cbmufny277ffrwmd3g",
+        "device_id": "cbmufny277ffrwmd3g",
+        "space_id": "36efedMlR0gp2j6v2gVXJ2KsCuI"
+    },
+    {
+        "thing_name": "36lk3T3XPAKFK0JfDuPp8YpyohD_cbmygp3wd2aym3zewu",
+        "device_id": "cbmygp3wd2aym3zewu",
+        "space_id": "36lk3T3XPAKFK0JfDuPp8YpyohD"
+    },
+    {
+        "thing_name": "36nhVEceLMkC276ChI9M4mFkOrh_cbmrscp2hp7khxx7nv",
+        "device_id": "cbmrscp2hp7khxx7nv",
+        "space_id": "36nhVEceLMkC276ChI9M4mFkOrh"
+    },
+    {
+        "thing_name": "33kpP31BsQTBD25Rbv3JKaK8ML2_cbmtvq7n5hac8n9m9r",
+        "device_id": "cbmtvq7n5hac8n9m9r",
+        "space_id": "33kpP31BsQTBD25Rbv3JKaK8ML2"
+    },
+    {
+        "thing_name": "36oCK51f4717Oc1MBUA0Ug67lCX_cbm99xjf6pbg3nn3zw",
+        "device_id": "cbm99xjf6pbg3nn3zw",
+        "space_id": "36oCK51f4717Oc1MBUA0Ug67lCX"
+    },
+    {
+        "thing_name": "36tgJpF2rRKvQILJIzo3nAaDQOh_cbm4ws9zab9nittq99",
+        "device_id": "cbm4ws9zab9nittq99",
+        "space_id": "36tgJpF2rRKvQILJIzo3nAaDQOh"
+    },
+    {
+        "thing_name": "36u6TK89p7FLUn2wMfBTBk5vu3g_cbmnqz3ykcy5iindu8",
+        "device_id": "cbmnqz3ykcy5iindu8",
+        "space_id": "36u6TK89p7FLUn2wMfBTBk5vu3g"
+    },
+    {
+        "thing_name": "36uP1qKMXS5GxnmfUVietxxy8av_cbmb4enbnfr7skce7d",
+        "device_id": "cbmb4enbnfr7skce7d",
+        "space_id": "36uP1qKMXS5GxnmfUVietxxy8av"
+    },
+    {
+        "thing_name": "36ysl5ePUCFPiKvWjXJu5QEdN2y_cbm63w7a7gn65dvefi",
+        "device_id": "cbm63w7a7gn65dvefi",
+        "space_id": "36ysl5ePUCFPiKvWjXJu5QEdN2y"
+    },
+    {
+        "thing_name": "36yxZFnpUhHBBXKJZd8vOzuk1yP_cbmmi7ybxtn8u3aam9",
+        "device_id": "cbmmi7ybxtn8u3aam9",
+        "space_id": "36yxZFnpUhHBBXKJZd8vOzuk1yP"
+    },
+    {
+        "thing_name": "36zOOdG6w4aJH6dKXINaekJLnE1_cbm5yp538ixuhp92us",
+        "device_id": "cbm5yp538ixuhp92us",
+        "space_id": "36zOOdG6w4aJH6dKXINaekJLnE1"
+    },
+    {
+        "thing_name": "36zZInxuh4cC52M4gBRlzxkpvd8_cbmi6jaek76kzpmhjy",
+        "device_id": "cbmi6jaek76kzpmhjy",
+        "space_id": "36zZInxuh4cC52M4gBRlzxkpvd8"
+    },
+    {
+        "thing_name": "375HZjtWkgJ9AZQ5DVPPfkpQptY_cbm489r4qs7xjzwdxt",
+        "device_id": "cbm489r4qs7xjzwdxt",
+        "space_id": "375HZjtWkgJ9AZQ5DVPPfkpQptY"
+    },
+    {
+        "thing_name": "376Xj2fLSEJ3zp7j0vRX83rX7C0_cbmgmfdrdjmq8w2f5s",
+        "device_id": "cbmgmfdrdjmq8w2f5s",
+        "space_id": "376Xj2fLSEJ3zp7j0vRX83rX7C0"
+    },
+    {
+        "thing_name": "377yeNJF2lnmv3bG4pgr6uqdyYr_cbmezfusx7h2r6xpse",
+        "device_id": "cbmezfusx7h2r6xpse",
+        "space_id": "377yeNJF2lnmv3bG4pgr6uqdyYr"
+    },
+    {
+        "thing_name": "3785Gi0x2qvsp0Q2GovQiaoAzvd_cbm6yixddycefy4ve7",
+        "device_id": "cbm6yixddycefy4ve7",
+        "space_id": "3785Gi0x2qvsp0Q2GovQiaoAzvd"
+    },
+    {
+        "thing_name": "36GxD4tZDszOdcWfLs0zt4MdVRQ_cbm4ht3gzidcketgki",
+        "device_id": "cbm4ht3gzidcketgki",
+        "space_id": "36GxD4tZDszOdcWfLs0zt4MdVRQ"
+    }
+]
