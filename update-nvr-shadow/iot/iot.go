@@ -58,18 +58,18 @@ func NewIoTCore() *IoTCore {
 	return iotCore
 }
 
-// func (ait *IoTCore) GetThingShadow(ctx context.Context, thingName string) (*iotdataplane.GetThingShadowOutput, error) {
-// 	getThingShadowInput := &iotdataplane.GetThingShadowInput{
-// 		ThingName: aws.String(thingName),
-// 	}
+func (ait *IoTCore) GetThingShadow(ctx context.Context, thingName string) (*iotdataplane.GetThingShadowOutput, error) {
+	getThingShadowInput := &iotdataplane.GetThingShadowInput{
+		ThingName: aws.String(thingName),
+	}
 
-// 	getThingShadowOutput, err := ait.IotDataClient.GetThingShadow(ctx, getThingShadowInput)
-// 	if err != nil {
-// 		return nil, err
-// 	}
+	getThingShadowOutput, err := ait.IotDataClient.GetThingShadow(ctx, getThingShadowInput)
+	if err != nil {
+		return nil, err
+	}
 
-// 	return getThingShadowOutput, nil
-// }
+	return getThingShadowOutput, nil
+}
 
 func (ait *IoTCore) UpdateThingShadow(ctx context.Context, thingName string, payload []byte) (*iotdataplane.UpdateThingShadowOutput, error) {
 	updateThingShadowInput := &iotdataplane.UpdateThingShadowInput{
@@ -122,6 +122,55 @@ func (ait *IoTCore) UpdateNVRShadow(thingName string) error {
 	fmt.Printf("Successfully updated shadow for thing: %s\n", thingName)
 	return nil
 }
+
+// UpdateNVRsubShadow will update the shadow to subscription field
+func (ait *IoTCore) UpdateNVRSubShadow(thingName string) error {
+	fmt.Printf("Updating the Subs Shadow for thing: %s\n", thingName)
+	payload := ShadowPayloadV2{
+		State: StateV2{
+			Desired:map[string]any{
+				"subscription": map[string]any{
+					"supported_features": []map[string]string{
+						// {
+						// 	"id":    "pro_monitoring",
+						// 	"value": "",
+						// },
+						{
+							"id":    "cloud_storage",
+							"value": "30",
+						},
+					},
+				},
+			},
+		},
+	}
+
+	payloadBytes, err := json.Marshal(payload)
+	if err != nil {
+		return fmt.Errorf("failed to marshal shadow payload: %w", err)
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+	_, err = ait.UpdateThingShadow(ctx, thingName, payloadBytes)
+	if err != nil {
+		return fmt.Errorf("failed to update shadow for %s: %w", thingName, err)
+	}
+
+	fmt.Printf("Subscription shadow updated successfully for thing: %s\n", thingName)
+	return nil
+}
+
+
+func (ait *IoTCore) ThingExists(thingName string) bool {
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+	_, err := ait.IotClient.DescribeThing(ctx, &iot.DescribeThingInput{
+		ThingName: aws.String(thingName),
+	})
+	return err == nil
+}
+
 
 
 // func (ait *IoTCore) UpdateNVRShadow(thingName string) error {
